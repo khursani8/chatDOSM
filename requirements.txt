@@ -4,3 +4,5 @@ tiktoken
 requests
 autofaiss
 plotly
+scipy
+scikit-learn
