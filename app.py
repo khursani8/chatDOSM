@@ -5,8 +5,8 @@ import pandas as pd
 import numpy as np
 from pdb import set_trace
 import os
-os.system("wget https://zenodo.org/record/7606973/files/mappings.csv?download=1 -o mappings.csv")
-os.system("wget https://zenodo.org/record/7607041/files/knn.index?download=1 -o knn.index")
+os.system("wget https://zenodo.org/record/7606973/files/mappings.csv?download=1 -O mappings.csv")
+os.system("wget https://zenodo.org/record/7607041/files/knn.index?download=1 -O knn.index")
 def create_context(
     question, df
 ):
