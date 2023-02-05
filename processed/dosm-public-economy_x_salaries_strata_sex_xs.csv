@@ -1,0 +1,73 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+urban,Urban,Bandar,overall,2010,2077.0,1600.0,5450700
+urban,Urban,Bandar,overall,2011,2090.0,1600.0,5816700
+urban,Urban,Bandar,overall,2012,2204.0,1770.0,6029800
+urban,Urban,Bandar,overall,2013,2347.0,1850.0,6202400
+urban,Urban,Bandar,overall,2014,2517.0,2000.0,6937100
+urban,Urban,Bandar,overall,2015,2638.0,2000.0,6788000
+urban,Urban,Bandar,overall,2016,2812.0,2115.0,6964700
+urban,Urban,Bandar,overall,2017,3038.0,2260.0,7297900
+urban,Urban,Bandar,overall,2018,3274.0,2415.0,7382200
+urban,Urban,Bandar,overall,2019,3405.0,2565.0,7802800
+urban,Urban,Bandar,overall,2020,3089.0,2268.0,7929900
+urban,Urban,Bandar,overall,2021,3188.2,2438.0,8273900
+rural,Rural,Luar bandar,overall,2010,1481.0,1087.0,1698500
+rural,Rural,Luar bandar,overall,2011,1538.0,1130.0,1817300
+rural,Rural,Luar bandar,overall,2012,1527.0,1100.0,1753100
+rural,Rural,Luar bandar,overall,2013,1597.0,1150.0,1700700
+rural,Rural,Luar bandar,overall,2014,1710.0,1200.0,1455300
+rural,Rural,Luar bandar,overall,2015,1831.0,1300.0,1560600
+rural,Rural,Luar bandar,overall,2016,1916.0,1350.0,1459400
+rural,Rural,Luar bandar,overall,2017,2040.0,1400.0,1379200
+rural,Rural,Luar bandar,overall,2018,2083.0,1481.0,1379100
+rural,Rural,Luar bandar,overall,2019,2208.0,1560.0,1392400
+rural,Rural,Luar bandar,overall,2020,2086.0,1340.0,1460800
+rural,Rural,Luar bandar,overall,2021,2166.4,1520.0,1438000
+urban,Urban,Bandar,male,2010,2170.0,1695.0,3321500
+urban,Urban,Bandar,male,2011,2199.0,1700.0,3485100
+urban,Urban,Bandar,male,2012,2308.0,1800.0,3614300
+urban,Urban,Bandar,male,2013,2460.0,2000.0,3676600
+urban,Urban,Bandar,male,2014,2627.0,2000.0,4127100
+urban,Urban,Bandar,male,2015,2740.0,2100.0,4039100
+urban,Urban,Bandar,male,2016,2925.0,2200.0,4094800
+urban,Urban,Bandar,male,2017,3148.0,2300.0,4262100
+urban,Urban,Bandar,male,2018,3400.0,2464.0,4324900
+urban,Urban,Bandar,male,2019,3528.0,2712.0,4531000
+urban,Urban,Bandar,male,2020,3157.0,2366.0,4599300
+urban,Urban,Bandar,male,2021,3265.3,2522.0,4819800
+rural,Rural,Luar bandar,male,2010,1505.0,1102.0,1111100
+rural,Rural,Luar bandar,male,2011,1555.0,1200.0,1194900
+rural,Rural,Luar bandar,male,2012,1547.0,1200.0,1130700
+rural,Rural,Luar bandar,male,2013,1595.0,1200.0,1107600
+rural,Rural,Luar bandar,male,2014,1701.0,1200.0,943600
+rural,Rural,Luar bandar,male,2015,1829.0,1400.0,1010300
+rural,Rural,Luar bandar,male,2016,1937.0,1400.0,939600
+rural,Rural,Luar bandar,male,2017,2021.0,1500.0,889200
+rural,Rural,Luar bandar,male,2018,2070.0,1527.0,885000
+rural,Rural,Luar bandar,male,2019,2178.0,1575.0,904900
+rural,Rural,Luar bandar,male,2020,2026.0,1340.0,951700
+rural,Rural,Luar bandar,male,2021,2132.4,1542.0,914100
+urban,Urban,Bandar,female,2010,1933.0,1500.0,2129200
+urban,Urban,Bandar,female,2011,1926.0,1500.0,2331600
+urban,Urban,Bandar,female,2012,2049.0,1614.0,2415500
+urban,Urban,Bandar,female,2013,2183.0,1720.0,2525800
+urban,Urban,Bandar,female,2014,2356.0,1800.0,2810000
+urban,Urban,Bandar,female,2015,2489.0,2000.0,2748900
+urban,Urban,Bandar,female,2016,2651.0,2000.0,2869900
+urban,Urban,Bandar,female,2017,2884.0,2160.0,3035900
+urban,Urban,Bandar,female,2018,3096.0,2316.0,3057300
+urban,Urban,Bandar,female,2019,3234.0,2518.0,3271700
+urban,Urban,Bandar,female,2020,2994.0,2124.0,3330600
+urban,Urban,Bandar,female,2021,3080.7,2302.0,3454100
+rural,Rural,Luar bandar,female,2010,1436.0,1000.0,587400
+rural,Rural,Luar bandar,female,2011,1505.0,1000.0,622300
+rural,Rural,Luar bandar,female,2012,1491.0,1000.0,622400
+rural,Rural,Luar bandar,female,2013,1600.0,1000.0,593000
+rural,Rural,Luar bandar,female,2014,1726.0,1090.0,511700
+rural,Rural,Luar bandar,female,2015,1834.0,1200.0,550300
+rural,Rural,Luar bandar,female,2016,1877.0,1219.0,519799
+rural,Rural,Luar bandar,female,2017,2074.0,1300.0,490000
+rural,Rural,Luar bandar,female,2018,2106.0,1339.0,494100
+rural,Rural,Luar bandar,female,2019,2262.0,1473.0,487500
+rural,Rural,Luar bandar,female,2020,2198.0,1303.0,509100
+rural,Rural,Luar bandar,female,2021,2225.8,1480.0,523900

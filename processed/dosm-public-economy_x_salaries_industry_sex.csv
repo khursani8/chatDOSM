@@ -1,0 +1,721 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+overall,Overall,Keseluruhan,overall,2010,1936.0,1500.0,7149200
+overall,Overall,Keseluruhan,overall,2011,1959.0,1500.0,7634000
+overall,Overall,Keseluruhan,overall,2012,2052.0,1566.0,7782900
+overall,Overall,Keseluruhan,overall,2013,2186.0,1700.0,7903100
+overall,Overall,Keseluruhan,overall,2014,2377.0,1800.0,8392400
+overall,Overall,Keseluruhan,overall,2015,2487.0,1942.0,8348600
+overall,Overall,Keseluruhan,overall,2016,2657.0,2000.0,8424100
+overall,Overall,Keseluruhan,overall,2017,2879.0,2160.0,8677100
+overall,Overall,Keseluruhan,overall,2018,3087.0,2308.0,8761248
+overall,Overall,Keseluruhan,overall,2019,3224.0,2442.0,9195200
+overall,Overall,Keseluruhan,overall,2020,2933.0,2062.0,9390700
+overall,Overall,Keseluruhan,overall,2021,3036.9,2250.0,9711900
+msic_a,Agriculture,Pertanian,overall,2010,1159.0,780.0,223200
+msic_a,Agriculture,Pertanian,overall,2011,1182.0,800.0,181000
+msic_a,Agriculture,Pertanian,overall,2012,1229.0,900.0,202300
+msic_a,Agriculture,Pertanian,overall,2013,1218.0,900.0,232600
+msic_a,Agriculture,Pertanian,overall,2014,1351.0,1044.0,237600
+msic_a,Agriculture,Pertanian,overall,2015,1543.0,1130.0,246200
+msic_a,Agriculture,Pertanian,overall,2016,1729.0,1200.0,212500
+msic_a,Agriculture,Pertanian,overall,2017,1825.0,1350.0,197700
+msic_a,Agriculture,Pertanian,overall,2018,1865.0,1392.0,216800
+msic_a,Agriculture,Pertanian,overall,2019,1997.0,1531.0,223900
+msic_a,Agriculture,Pertanian,overall,2020,1598.0,1291.0,246300
+msic_a,Agriculture,Pertanian,overall,2021,1775.9,1490.0,254000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2010,3544.0,2800.0,52400
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2011,3557.0,2400.0,63000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2012,3441.0,2500.0,72000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2013,3558.0,2800.0,68200
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2014,5016.0,3500.0,70500
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2015,4295.0,3600.0,93500
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2016,4940.0,3690.0,99800
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2017,5706.0,3700.0,82600
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2018,6017.0,3703.0,82000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2019,6154.0,3968.0,82300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2020,5064.0,3402.0,70500
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,overall,2021,5039.5,3921.0,67500
+msic_c,Manufacturing,Pembuatan,overall,2010,1691.0,1270.0,1480400
+msic_c,Manufacturing,Pembuatan,overall,2011,1709.0,1320.0,1606700
+msic_c,Manufacturing,Pembuatan,overall,2012,1884.0,1500.0,1594600
+msic_c,Manufacturing,Pembuatan,overall,2013,1969.0,1500.0,1497800
+msic_c,Manufacturing,Pembuatan,overall,2014,2154.0,1700.0,1617900
+msic_c,Manufacturing,Pembuatan,overall,2015,2187.0,1610.0,1514000
+msic_c,Manufacturing,Pembuatan,overall,2016,2348.0,1800.0,1557400
+msic_c,Manufacturing,Pembuatan,overall,2017,2443.0,1900.0,1654600
+msic_c,Manufacturing,Pembuatan,overall,2018,2565.0,1959.0,1590100
+msic_c,Manufacturing,Pembuatan,overall,2019,2616.0,1967.0,1694300
+msic_c,Manufacturing,Pembuatan,overall,2020,2542.0,1908.0,1770900
+msic_c,Manufacturing,Pembuatan,overall,2021,2606.3,1976.0,1899600
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2010,2939.0,2300.0,47000
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2011,2706.0,2400.0,48800
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2012,2684.0,2200.0,60500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2013,2940.0,2500.0,48900
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2014,2867.0,2500.0,63300
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2015,2877.0,2550.0,51200
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2016,3324.0,3000.0,79000
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2017,4011.0,3150.0,59900
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2018,4437.0,3324.0,66500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2019,4573.0,3616.0,70100
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2020,3596.0,2784.0,65700
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",overall,2021,3401.0,2993.0,72800
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2010,1532.0,1210.0,54600
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2011,1911.0,1500.0,54300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2012,1679.0,1500.0,59700
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2013,1667.0,1410.0,64900
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2014,1961.0,1600.0,67100
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2015,2175.0,1798.0,53600
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2016,2070.0,1650.0,61400
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2017,2429.0,2000.0,64000
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2018,2719.0,2183.0,68100
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2019,2833.0,2300.0,65200
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2020,2571.0,2073.0,62300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",overall,2021,2650.1,2067.0,64099
+msic_f,Construction ,Pembinaan,overall,2010,1646.0,1200.0,582700
+msic_f,Construction ,Pembinaan,overall,2011,1767.0,1300.0,639200
+msic_f,Construction ,Pembinaan,overall,2012,1814.0,1300.0,625800
+msic_f,Construction ,Pembinaan,overall,2013,1908.0,1500.0,640400
+msic_f,Construction ,Pembinaan,overall,2014,2024.0,1500.0,692100
+msic_f,Construction ,Pembinaan,overall,2015,2131.0,1560.0,676000
+msic_f,Construction ,Pembinaan,overall,2016,2220.0,1630.0,679800
+msic_f,Construction ,Pembinaan,overall,2017,2587.0,1900.0,682400
+msic_f,Construction ,Pembinaan,overall,2018,2821.0,2164.0,676300
+msic_f,Construction ,Pembinaan,overall,2019,2854.0,2169.0,682600
+msic_f,Construction ,Pembinaan,overall,2020,2557.0,1856.0,690800
+msic_f,Construction ,Pembinaan,overall,2021,2347.1,1781.0,683500
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2010,1432.0,1100.0,1103000
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2011,1478.0,1160.0,1230100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2012,1511.0,1200.0,1261500
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2013,1607.0,1300.0,1325800
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2014,1727.0,1300.0,1399000
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2015,1791.0,1400.0,1372700
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2016,1883.0,1600.0,1401300
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2017,2015.0,1650.0,1453100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2018,2154.0,1774.0,1442400
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2019,2363.0,1777.0,1546500
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2020,2011.0,1514.0,1501800
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",overall,2021,2062.8,1697.0,1584800
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2010,1958.0,1500.0,406300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2011,1872.0,1500.0,420300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2012,1999.0,1500.0,442500
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2013,2044.0,1800.0,430400
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2014,2179.0,1800.0,448600
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2015,2431.0,1900.0,463600
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2016,2548.0,2000.0,459200
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2017,2707.0,2000.0,484300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2018,2866.0,2175.0,507300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2019,3000.0,2393.0,517600
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2020,2481.0,2062.0,559000
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,overall,2021,2575.8,2091.0,545100
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2010,1115.0,900.0,396200
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2011,1134.0,900.0,425500
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2012,1218.0,945.0,463300
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2013,1329.0,1000.0,457400
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2014,1393.0,1100.0,514100
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2015,1477.0,1100.0,522799
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2016,1547.0,1140.0,539300
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2017,1754.0,1500.0,583600
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2018,1914.0,1657.0,621000
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2019,2081.0,1660.0,671300
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2020,1795.0,1293.0,742500
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,overall,2021,1950.5,1581.0,745800
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2010,3188.0,2500.0,142400
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2011,3078.0,2500.0,158600
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2012,3153.0,2600.0,181600
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2013,3496.0,3000.0,159900
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2014,3460.0,2970.0,191300
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2015,3695.0,3000.0,182200
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2016,4010.0,3200.0,172100
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2017,4429.0,3500.0,190200
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2018,4805.0,3641.0,184600
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2019,4898.0,3989.0,187800
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2020,4310.0,3547.0,186300
+msic_j,Information and communication,Maklumat dan Komunikasi,overall,2021,4345.5,3754.0,210800
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2010,2981.0,2500.0,276100
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2011,2949.0,2500.0,277700
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2012,3060.0,2500.0,283900
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2013,3165.0,2500.0,277600
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2014,3615.0,3000.0,269600
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2015,3502.0,3000.0,307000
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2016,4093.0,3070.0,281700
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2017,4437.0,3100.0,319100
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2018,4703.0,3370.0,288300
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2019,4737.0,3660.0,320000
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2020,4221.0,3273.0,326700
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,overall,2021,3949.2,3330.0,335900
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2010,2812.0,2500.0,42000
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2011,2992.0,2400.0,40600
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2012,2974.0,2200.0,46900
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2013,3164.0,2500.0,57900
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2014,3716.0,2500.0,58400
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2015,3855.0,3000.0,53600
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2016,4281.0,3365.0,56800
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2017,4880.0,3400.0,66600
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2018,5526.0,3601.0,76800
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2019,5755.0,3910.0,74300
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2020,3570.0,3037.0,73500
+msic_l,Real estate activities ,Aktiviti hartanah,overall,2021,3636.4,3255.0,72700
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2010,2356.0,1900.0,220600
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2011,2644.0,2000.0,269500
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2012,2815.0,2000.0,252600
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2013,2801.0,2200.0,252700
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2014,3174.0,2500.0,257700
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2015,3334.0,2500.0,278800
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2016,3689.0,2800.0,269200
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2017,4129.0,3000.0,270400
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2018,4704.0,3261.0,290700
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2019,4799.0,3531.0,320000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2020,3959.0,3028.0,313000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",overall,2021,3916.4,3162.0,319400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2010,1372.0,1000.0,230700
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2011,1278.0,900.0,329100
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2012,1180.0,900.0,351400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2013,1393.0,1000.0,377000
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2014,1513.0,1100.0,450500
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2015,1522.0,1150.0,451300
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2016,1667.0,1200.0,441800
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2017,1859.0,1350.0,466800
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2018,2094.0,1545.0,499700
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2019,2195.0,1700.0,551800
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2020,1992.0,1393.0,575000
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,overall,2021,2039.5,1692.0,574800
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2010,2350.0,2045.0,778800
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2011,2474.0,2160.0,717700
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2012,2561.0,2245.0,672700
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2013,2873.0,2490.0,765500
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2014,3154.0,2800.0,738300
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2015,3196.0,2800.0,739200
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2016,3496.0,3015.0,719400
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2017,3681.0,3162.0,722000
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2018,3848.0,3350.0,694100
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2019,4142.0,3620.0,711200
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2020,4146.0,3761.0,724100
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,overall,2021,4313.2,3929.0,731000
+msic_p,Education ,Pendidikan,overall,2010,2875.0,2800.0,707100
+msic_p,Education ,Pendidikan,overall,2011,2885.0,2850.0,725500
+msic_p,Education ,Pendidikan,overall,2012,3113.0,3050.0,733100
+msic_p,Education ,Pendidikan,overall,2013,3386.0,3352.0,753000
+msic_p,Education ,Pendidikan,overall,2014,3707.0,3714.0,814800
+msic_p,Education ,Pendidikan,overall,2015,3984.0,3990.0,846800
+msic_p,Education ,Pendidikan,overall,2016,4132.0,4132.0,837300
+msic_p,Education ,Pendidikan,overall,2017,4500.0,4458.0,810900
+msic_p,Education ,Pendidikan,overall,2018,4714.0,4546.0,911100
+msic_p,Education ,Pendidikan,overall,2019,5112.0,4868.0,907000
+msic_p,Education ,Pendidikan,overall,2020,5088.0,5058.0,856600
+msic_p,Education ,Pendidikan,overall,2021,5549.7,5331.0,909900
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2010,2347.0,1995.0,236400
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2011,2329.0,2000.0,274100
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2012,2467.0,2100.0,296900
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2013,2637.0,2300.0,305200
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2014,2980.0,2500.0,304500
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2015,3043.0,2550.0,324800
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2016,3182.0,2800.0,364000
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2017,3705.0,3000.0,376200
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2018,4022.0,3202.0,356500
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2019,4071.0,3519.0,374100
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2020,4077.0,3602.0,431700
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,overall,2021,4546.5,4193.0,454000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2010,1496.0,1250.0,65800
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2011,1502.0,1100.0,67000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2012,1598.0,1250.0,65400
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2013,1627.0,1400.0,73900
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2014,1831.0,1500.0,69700
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2015,2000.0,1544.0,58000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2016,2091.0,1682.0,77500
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2017,2521.0,1700.0,61200
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2018,2687.0,1832.0,63200
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2019,2797.0,1948.0,59100
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2020,2665.0,1882.0,42700
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",overall,2021,2907.5,2562.0,34200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2010,1387.0,1200.0,102200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2011,1370.0,1000.0,104700
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2012,1421.0,1200.0,114200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2013,1551.0,1300.0,113000
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2014,1742.0,1400.0,124600
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2015,1751.0,1500.0,113200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2016,1848.0,1510.0,114400
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2017,2022.0,1800.0,130900
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2018,2197.0,1971.0,124800
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2019,2333.0,2012.0,135900
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2020,2124.0,1593.0,151200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,overall,2021,2015.8,1735.0,152100
+overall,Overall,Keseluruhan,male,2010,2003.0,1500.0,4432600
+overall,Overall,Keseluruhan,male,2011,2035.0,1500.0,4680100
+overall,Overall,Keseluruhan,male,2012,2126.0,1600.0,4745000
+overall,Overall,Keseluruhan,male,2013,2259.0,1800.0,4784200
+overall,Overall,Keseluruhan,male,2014,2455.0,1888.0,5070700
+overall,Overall,Keseluruhan,male,2015,2558.0,2000.0,5049400
+overall,Overall,Keseluruhan,male,2016,2741.0,2000.0,5034400
+overall,Overall,Keseluruhan,male,2017,2953.0,2170.0,5151200
+overall,Overall,Keseluruhan,male,2018,3174.0,2342.0,5209800
+overall,Overall,Keseluruhan,male,2019,3304.0,2477.0,5435900
+overall,Overall,Keseluruhan,male,2020,2963.0,2093.0,5551000
+overall,Overall,Keseluruhan,male,2021,3084.7,2315.0,5733900
+msic_a,Agriculture,Pertanian,male,2010,1219.0,800.0,177500
+msic_a,Agriculture,Pertanian,male,2011,1235.0,850.0,146100
+msic_a,Agriculture,Pertanian,male,2012,1267.0,910.0,163900
+msic_a,Agriculture,Pertanian,male,2013,1205.0,960.0,184300
+msic_a,Agriculture,Pertanian,male,2014,1463.0,1150.0,182400
+msic_a,Agriculture,Pertanian,male,2015,1646.0,1200.0,197600
+msic_a,Agriculture,Pertanian,male,2016,1800.0,1300.0,174400
+msic_a,Agriculture,Pertanian,male,2017,1917.0,1400.0,156400
+msic_a,Agriculture,Pertanian,male,2018,1958.0,1462.0,174200
+msic_a,Agriculture,Pertanian,male,2019,2088.0,1560.0,178900
+msic_a,Agriculture,Pertanian,male,2020,1623.0,1291.0,195400
+msic_a,Agriculture,Pertanian,male,2021,1770.2,1490.0,202000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2010,3592.0,2500.0,42300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2011,3361.0,2070.0,49500
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2012,3524.0,2500.0,55600
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2013,3562.0,2800.0,53300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2014,5228.0,3500.0,53300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2015,4376.0,3600.0,80900
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2016,5075.0,3690.0,76100
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2017,5892.0,3700.0,66000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2018,6076.0,3781.0,64700
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2019,6127.0,3968.0,65500
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2020,5298.0,3254.0,51300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,male,2021,5293.4,4015.0,46800
+msic_c,Manufacturing,Pembuatan,male,2010,1900.0,1500.0,944500
+msic_c,Manufacturing,Pembuatan,male,2011,1921.0,1500.0,1013000
+msic_c,Manufacturing,Pembuatan,male,2012,2125.0,1600.0,1028099
+msic_c,Manufacturing,Pembuatan,male,2013,2217.0,1800.0,953200
+msic_c,Manufacturing,Pembuatan,male,2014,2396.0,1900.0,1038800
+msic_c,Manufacturing,Pembuatan,male,2015,2414.0,1960.0,981700
+msic_c,Manufacturing,Pembuatan,male,2016,2623.0,2000.0,984100
+msic_c,Manufacturing,Pembuatan,male,2017,2676.0,2170.0,1052100
+msic_c,Manufacturing,Pembuatan,male,2018,2839.0,2254.0,1007300
+msic_c,Manufacturing,Pembuatan,male,2019,2904.0,2185.0,1059100
+msic_c,Manufacturing,Pembuatan,male,2020,2714.0,2062.0,1111800
+msic_c,Manufacturing,Pembuatan,male,2021,2724.4,2083.0,1176700
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2010,2658.0,2300.0,37300
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2011,2692.0,2428.0,40500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2012,2694.0,2200.0,50100
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2013,2951.0,2227.0,39400
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2014,2868.0,2570.0,49600
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2015,2787.0,2550.0,45800
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2016,3421.0,3100.0,63500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2017,4169.0,3150.0,48800
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2018,4276.0,3268.0,57200
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2019,4347.0,3593.0,60700
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2020,3668.0,2835.0,55000
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",male,2021,3427.1,3023.0,61800
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2010,1665.0,1450.0,43100
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2011,1791.0,1500.0,42700
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2012,1755.0,1500.0,47900
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2013,1725.0,1475.0,53000
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2014,1994.0,1700.0,56100
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2015,2161.0,1700.0,47300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2016,2092.0,1650.0,48700
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2017,2353.0,1900.0,52600
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2018,2748.0,2211.0,55800
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2019,2878.0,2310.0,54900
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2020,2615.0,2062.0,51100
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",male,2021,2651.1,2067.0,52900
+msic_f,Construction ,Pembinaan,male,2010,1587.0,1200.0,503500
+msic_f,Construction ,Pembinaan,male,2011,1729.0,1250.0,550000
+msic_f,Construction ,Pembinaan,male,2012,1787.0,1200.0,535900
+msic_f,Construction ,Pembinaan,male,2013,1886.0,1400.0,555200
+msic_f,Construction ,Pembinaan,male,2014,1999.0,1500.0,599200
+msic_f,Construction ,Pembinaan,male,2015,2079.0,1500.0,578100
+msic_f,Construction ,Pembinaan,male,2016,2236.0,1630.0,583800
+msic_f,Construction ,Pembinaan,male,2017,2558.0,1800.0,578200
+msic_f,Construction ,Pembinaan,male,2018,2756.0,2093.2991004184587,566300
+msic_f,Construction ,Pembinaan,male,2019,2807.0,2070.0,579600
+msic_f,Construction ,Pembinaan,male,2020,2500.0,1794.0,577800
+msic_f,Construction ,Pembinaan,male,2021,2292.5,1702.0,566300
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2010,1551.0,1200.0,672300
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2011,1608.0,1200.0,734100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2012,1650.0,1350.0,764600
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2013,1755.0,1500.0,783700
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2014,1903.0,1500.0,810100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2015,1932.0,1500.0,786200
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2016,2045.0,1620.0,799600
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2017,2178.0,1684.0,818600
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2018,2336.0,1858.0,820100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2019,2547.0,1982.0,875500
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2020,2143.0,1550.0,866900
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",male,2021,2181.7,1845.0,870300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2010,1971.0,1500.0,339100
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2011,1871.0,1500.0,345400
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2012,2013.0,1500.0,372400
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2013,2073.0,1800.0,374500
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2014,2207.0,1800.0,380300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2015,2434.0,1800.0,389100
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2016,2605.0,2000.0,373000
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2017,2751.0,2000.0,411500
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2018,2870.0,2174.0,416000
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2019,2993.0,2393.0,429800
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2020,2487.0,2062.0,458900
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,male,2021,2571.7,2180.0,402600
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2010,1247.0,1040.0,212900
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2011,1267.0,1000.0,229700
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2012,1441.0,1100.0,235100
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2013,1581.0,1200.0,220400
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2014,1614.0,1300.0,266200
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2015,1706.0,1325.0,283200
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2016,1711.0,1340.0,283700
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2017,1948.0,1635.0,303600
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2018,2191.0,1825.0,326900
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2019,2353.0,1850.0,342400
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2020,2024.0,1443.0,399000
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,male,2021,2133.4,1800.0,369500
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2010,3349.0,2615.0,92500
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2011,3355.0,2500.0,105900
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2012,3195.0,2500.0,102700
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2013,3526.0,3000.0,99200
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2014,3758.0,3000.0,111900
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2015,3856.0,3000.0,114900
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2016,4251.0,3450.0,111300
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2017,4829.0,3900.0,120000
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2018,5115.0,3936.0,111300
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2019,5177.0,4258.0,116500
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2020,4664.0,3821.0,105400
+msic_j,Information and communication,Maklumat dan Komunikasi,male,2021,4597.0,3967.0,139300
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2010,3452.0,2650.0,127400
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2011,3359.0,2500.0,125300
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2012,3367.0,2500.0,122300
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2013,3548.0,3000.0,127000
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2014,4073.0,3000.0,115900
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2015,4012.0,3200.0,132200
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2016,4731.0,3500.0,119700
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2017,4913.0,3550.0,130400
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2018,5372.0,3954.0,127900
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2019,5515.0,4270.0,134200
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2020,4755.0,3609.0,147900
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,male,2021,4452.1,3824.0,150400
+msic_l,Real estate activities ,Aktiviti hartanah,male,2010,3247.0,2950.0,21600
+msic_l,Real estate activities ,Aktiviti hartanah,male,2011,3380.0,2500.0,21000
+msic_l,Real estate activities ,Aktiviti hartanah,male,2012,3664.0,2800.0,26100
+msic_l,Real estate activities ,Aktiviti hartanah,male,2013,3841.0,3000.0,28900
+msic_l,Real estate activities ,Aktiviti hartanah,male,2014,4528.0,3000.0,28400
+msic_l,Real estate activities ,Aktiviti hartanah,male,2015,4425.0,3200.0,27100
+msic_l,Real estate activities ,Aktiviti hartanah,male,2016,4635.0,3500.0,27600
+msic_l,Real estate activities ,Aktiviti hartanah,male,2017,5440.0,3500.0,34500
+msic_l,Real estate activities ,Aktiviti hartanah,male,2018,6835.0,5169.0,33000
+msic_l,Real estate activities ,Aktiviti hartanah,male,2019,6785.0,5443.0,37100
+msic_l,Real estate activities ,Aktiviti hartanah,male,2020,3868.0,3170.0,36700
+msic_l,Real estate activities ,Aktiviti hartanah,male,2021,3925.5,3589.0,41800
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2010,2598.0,2000.0,119000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2011,2922.0,2000.0,139000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2012,3262.0,2500.0,116500
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2013,3151.0,2400.0,114800
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2014,3474.0,3000.0,115100
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2015,3873.0,3000.0,126900
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2016,4103.0,3000.0,116200
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2017,4740.0,3200.0,122400
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2018,5475.0,3626.0,121600
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2019,5563.0,3995.0,140300
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2020,4667.0,3444.0,143100
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",male,2021,4748.0,3854.0,144800
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2010,1471.0,1100.0,150300
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2011,1398.0,1000.0,229400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2012,1286.0,1000.0,236900
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2013,1491.0,1200.0,248600
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2014,1602.0,1200.0,298700
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2015,1599.0,1200.0,286700
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2016,1771.0,1300.0,288200
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2017,1955.0,1470.0,307300
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2018,2221.0,1624.0,327400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2019,2294.0,1760.0,368600
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2020,2004.0,1443.0,361400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,male,2021,1991.2,1692.0,358500
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2010,2385.0,2076.0,551600
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2011,2512.0,2200.0,504700
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2012,2629.0,2300.0,465600
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2013,2972.0,2548.0,531700
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2014,3231.0,2875.0,515400
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2015,3279.0,2901.0,513799
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2016,3516.0,3065.0,507900
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2017,3750.0,3165.0,496300
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2018,3890.0,3413.0,494300
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2019,4175.0,3748.0,500400
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2020,4213.0,3850.0,489200
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,male,2021,4327.0,3902.0,520100
+msic_p,Education ,Pendidikan,male,2010,3244.0,3150.0,238700
+msic_p,Education ,Pendidikan,male,2011,3269.0,3134.0,240500
+msic_p,Education ,Pendidikan,male,2012,3496.0,3345.0,240000
+msic_p,Education ,Pendidikan,male,2013,3773.0,3619.0,239600
+msic_p,Education ,Pendidikan,male,2014,4200.0,4010.0,265000
+msic_p,Education ,Pendidikan,male,2015,4452.0,4368.0,281800
+msic_p,Education ,Pendidikan,male,2016,4720.0,4480.0,276400
+msic_p,Education ,Pendidikan,male,2017,5008.0,4900.0,258000
+msic_p,Education ,Pendidikan,male,2018,5317.0,4966.0,306600
+msic_p,Education ,Pendidikan,male,2019,5753.0,5408.0,298200
+msic_p,Education ,Pendidikan,male,2020,5944.0,5549.0,268300
+msic_p,Education ,Pendidikan,male,2021,6375.3,6188.0,356000
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2010,2735.0,2066.0,71700
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2011,2667.0,2030.0,81200
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2012,2838.0,2026.0,81700
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2013,2908.0,2263.0,84900
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2014,3421.0,2500.0,82000
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2015,3652.0,2550.0,90400
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2016,3476.0,2765.0,100300
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2017,4273.0,3087.0,100500
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2018,4657.0,3416.0,101100
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2019,4620.0,3772.0,96100
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2020,4761.0,3887.0,134500
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,male,2021,5192.8,4536.0,168000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2010,1562.0,1340.0,39700
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2011,1635.0,1308.0,37500
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2012,1678.0,1250.0,42600
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2013,1661.0,1300.0,42600
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2014,1911.0,1500.0,48000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2015,2013.0,1800.0,35300
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2016,2212.0,1700.0,42900
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2017,2500.0,1700.0,35000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2018,2946.0,1869.0,39300
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2019,3067.0,2177.0,37300
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2020,2901.0,2113.0,21100
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",male,2021,3132.0,2705.0,18900
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2010,1491.0,1200.0,46300
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2011,1537.0,1200.0,43900
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2012,1513.0,1200.0,55600
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2013,1678.0,1300.0,49100
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2014,1821.0,1500.0,53400
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2015,2000.0,1700.0,50500
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2016,1960.0,1682.0,57100
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2017,2345.0,2000.0,58500
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2018,2420.0,2112.0,58200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2019,2498.0,2131.0,60600
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2020,2205.0,1765.0,76200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,male,2021,2022.7,1781.0,87100
+overall,Overall,Keseluruhan,female,2010,1825.0,1498.0,2716600
+overall,Overall,Keseluruhan,female,2011,1838.0,1467.0,2953900
+overall,Overall,Keseluruhan,female,2012,1935.0,1500.0,3037900
+overall,Overall,Keseluruhan,female,2013,2072.0,1600.0,3118900
+overall,Overall,Keseluruhan,female,2014,2259.0,1700.0,3321800
+overall,Overall,Keseluruhan,female,2015,2380.0,1855.0,3299200
+overall,Overall,Keseluruhan,female,2016,2532.0,2000.0,3389700
+overall,Overall,Keseluruhan,female,2017,2772.0,2145.0,3525900
+overall,Overall,Keseluruhan,female,2018,2959.0,2227.0,3551400
+overall,Overall,Keseluruhan,female,2019,3108.0,2370.0,3759300
+overall,Overall,Keseluruhan,female,2020,2889.0,2019.0,3839600
+overall,Overall,Keseluruhan,female,2021,2968.1,2145.0,3978000
+msic_a,Agriculture,Pertanian,female,2010,927.0,598.0,45700
+msic_a,Agriculture,Pertanian,female,2011,963.0,630.0,34900
+msic_a,Agriculture,Pertanian,female,2012,1068.0,700.0,38500
+msic_a,Agriculture,Pertanian,female,2013,1268.0,800.0,48300
+msic_a,Agriculture,Pertanian,female,2014,984.0,848.0,55200
+msic_a,Agriculture,Pertanian,female,2015,1125.0,946.0,48600
+msic_a,Agriculture,Pertanian,female,2016,1401.0,1200.0,38100
+msic_a,Agriculture,Pertanian,female,2017,1475.0,1250.0,41200
+msic_a,Agriculture,Pertanian,female,2018,1486.0,1113.0,42500
+msic_a,Agriculture,Pertanian,female,2019,1638.0,1265.0,45100
+msic_a,Agriculture,Pertanian,female,2020,1505.0,1211.0,50900
+msic_a,Agriculture,Pertanian,female,2021,1797.9,1250.0,52000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2010,3345.0,3500.0,10100
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2011,4280.0,3900.0,13500
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2012,3159.0,2800.0,16300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2013,3546.0,3000.0,15000
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2014,4357.0,2900.0,17200
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2015,3773.0,3600.0,12600
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2016,4506.0,3600.0,23700
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2017,4969.0,3650.0,16600
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2018,5795.0,3375.0,17300
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2019,6260.0,5133.0,16800
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2020,4439.0,3716.0,19200
+msic_b,Mining and quarrying ,Perlombongan dan pengkuarian,female,2021,4467.7,3807.0,20800
+msic_c,Manufacturing,Pembuatan,female,2010,1322.0,1000.0,535800
+msic_c,Manufacturing,Pembuatan,female,2011,1346.0,1090.0,593600
+msic_c,Manufacturing,Pembuatan,female,2012,1445.0,1100.0,566500
+msic_c,Manufacturing,Pembuatan,female,2013,1537.0,1200.0,544600
+msic_c,Manufacturing,Pembuatan,female,2014,1720.0,1400.0,579100
+msic_c,Manufacturing,Pembuatan,female,2015,1769.0,1310.0,532400
+msic_c,Manufacturing,Pembuatan,female,2016,1876.0,1500.0,573300
+msic_c,Manufacturing,Pembuatan,female,2017,2036.0,1600.0,602400
+msic_c,Manufacturing,Pembuatan,female,2018,2091.0,1626.0,582800
+msic_c,Manufacturing,Pembuatan,female,2019,2136.0,1672.0,635200
+msic_c,Manufacturing,Pembuatan,female,2020,2252.0,1638.0,659100
+msic_c,Manufacturing,Pembuatan,female,2021,2414.2,1863.0,722900
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2010,4015.0,2540.0,9700
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2011,2776.0,2300.0,8300
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2012,2640.0,2000.0,10400
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2013,2894.0,3000.0,9500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2014,2864.0,2500.0,13700
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2015,3641.0,3100.0,5400
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2016,2927.0,3000.0,15500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2017,3321.0,3100.0,11200
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2018,5425.0,3538.0,9300
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2019,6010.0,4212.0,9500
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2020,3223.0,2620.0,10600
+msic_d,"Electricity, gas, steam and air conditioning supply ","Bekalan elektrik, gas, wap dan pendingin udara",female,2021,3253.6,2763.0,11000
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2010,1034.0,800.0,11500
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2011,2347.0,1700.0,11700
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2012,1369.0,860.0,11800
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2013,1409.0,1300.0,11900
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2014,1789.0,1300.0,10900
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2015,2278.0,2000.0,6300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2016,1987.0,1400.0,12700
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2017,2780.0,2145.0,11400
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2018,2586.0,2156.0,12300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2019,2595.0,2261.0,10300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2020,2370.0,2215.0,11300
+msic_e,"Water supply; sewerage, waste management and remediation activities ","Bekalan air; pembentungan, pengurusan sisa dan aktiviti pemulihan",female,2021,2645.1,1878.0,11300
+msic_f,Construction ,Pembinaan,female,2010,2025.0,1600.0,79200
+msic_f,Construction ,Pembinaan,female,2011,2005.0,1500.0,89200
+msic_f,Construction ,Pembinaan,female,2012,1971.0,1600.0,90000
+msic_f,Construction ,Pembinaan,female,2013,2050.0,1600.0,85200
+msic_f,Construction ,Pembinaan,female,2014,2182.0,1800.0,92900
+msic_f,Construction ,Pembinaan,female,2015,2438.0,2000.0,97900
+msic_f,Construction ,Pembinaan,female,2016,2122.0,2000.0,96000
+msic_f,Construction ,Pembinaan,female,2017,2752.0,2300.0,104300
+msic_f,Construction ,Pembinaan,female,2018,3158.0,2403.0,110100
+msic_f,Construction ,Pembinaan,female,2019,3115.0,2488.0,103000
+msic_f,Construction ,Pembinaan,female,2020,2852.0,2221.0,113000
+msic_f,Construction ,Pembinaan,female,2021,2611.2,2170.0,117200
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2010,1248.0,980.0,430800
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2011,1285.0,1000.0,496100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2012,1296.0,1000.0,496900
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2013,1394.0,1100.0,542100
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2014,1486.0,1200.0,589000
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2015,1602.0,1200.0,586500
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2016,1667.0,1400.0,601700
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2017,1803.0,1600.0,634600
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2018,1915.0,1540.0,622300
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2019,2123.0,1711.0,671000
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2020,1830.0,1350.0,634900
+msic_g,Wholesale and retail trade; repair of motor vehicles and motorcycles ,"Perdagangan borong dan runcit, pembaikan kenderaan bermotor dan motosikal",female,2021,1918.0,1592.0,714500
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2010,1891.0,1500.0,67200
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2011,1878.0,1500.0,74900
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2012,1922.0,1500.0,70200
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2013,1851.0,1500.0,55900
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2014,2024.0,1700.0,68300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2015,2412.0,1905.0,74500
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2016,2300.0,2000.0,86200
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2017,2456.0,2160.0,72800
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2018,2846.0,2240.0,91300
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2019,3031.0,2444.0,87700
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2020,2453.0,2019.0,100100
+msic_h,Transportation and storage,Pengangkutan dan penyimpanan,female,2021,2587.3,1937.0,142500
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2010,962.0,750.0,183300
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2011,977.0,800.0,195800
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2012,987.0,800.0,228200
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2013,1094.0,840.0,237000
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2014,1157.0,940.0,247900
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2015,1207.0,950.0,239700
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2016,1366.0,1000.0,255600
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2017,1544.0,1300.0,280100
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2018,1605.0,1261.0,294200
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2019,1799.0,1380.0,328900
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2020,1528.0,1211.0,343500
+msic_i,Accommodation and food and beverage service activities,Penginapan dan aktiviti perkhidmatan makanan dan minuman,female,2021,1770.9,1392.0,376300
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2010,2889.0,2200.0,49900
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2011,2521.0,2100.0,52700
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2012,3097.0,2700.0,78800
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2013,3447.0,3000.0,60700
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2014,3040.0,2500.0,79400
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2015,3422.0,3000.0,67300
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2016,3569.0,3000.0,60800
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2017,3747.0,3000.0,70200
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2018,4334.0,3410.0,73300
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2019,4444.0,3570.0,71300
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2020,3849.0,3241.0,80900
+msic_j,Information and communication,Maklumat dan Komunikasi,female,2021,3855.0,3423.0,71400
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2010,2577.0,2155.0,148700
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2011,2612.0,2300.0,152300
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2012,2828.0,2500.0,161600
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2013,2841.0,2500.0,150600
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2014,3270.0,3000.0,153800
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2015,3117.0,3000.0,174800
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2016,3622.0,3000.0,162000
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2017,4108.0,3100.0,188700
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2018,4170.0,3029.0,160400
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2019,4176.0,3308.0,185800
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2020,3780.0,3028.0,178800
+msic_k,Financial and insurance/takaful activities ,Aktiviti kewangan dan insurans/takaful,female,2021,3541.4,2931.0,185500
+msic_l,Real estate activities ,Aktiviti hartanah,female,2010,2350.0,2140.0,20300
+msic_l,Real estate activities ,Aktiviti hartanah,female,2011,2577.0,2300.0,19600
+msic_l,Real estate activities ,Aktiviti hartanah,female,2012,2113.0,1800.0,20900
+msic_l,Real estate activities ,Aktiviti hartanah,female,2013,2488.0,2250.0,29000
+msic_l,Real estate activities ,Aktiviti hartanah,female,2014,2950.0,2500.0,30100
+msic_l,Real estate activities ,Aktiviti hartanah,female,2015,3271.0,2700.0,26400
+msic_l,Real estate activities ,Aktiviti hartanah,female,2016,3945.0,2800.0,29100
+msic_l,Real estate activities ,Aktiviti hartanah,female,2017,4278.0,3000.0,32100
+msic_l,Real estate activities ,Aktiviti hartanah,female,2018,4541.0,3435.0,43800
+msic_l,Real estate activities ,Aktiviti hartanah,female,2019,4728.0,3874.0,37200
+msic_l,Real estate activities ,Aktiviti hartanah,female,2020,3273.0,2924.0,36800
+msic_l,Real estate activities ,Aktiviti hartanah,female,2021,3245.9,2614.0,30900
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2010,2072.0,1700.0,101500
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2011,2347.0,2000.0,130500
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2012,2432.0,2000.0,136200
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2013,2510.0,2000.0,137900
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2014,2931.0,2375.0,142600
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2015,2883.0,2500.0,151800
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2016,3374.0,2800.0,153000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2017,3623.0,2800.0,148000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2018,4149.0,3020.0,169000
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2019,4202.0,3330.0,179700
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2020,3362.0,2826.0,169900
+msic_m,"Professional, scientific and technical activities","Aktiviti profesional, saintifik dan teknikal",female,2021,3226.3,2646.0,174500
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2010,1186.0,800.0,80400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2011,1001.0,700.0,99600
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2012,962.0,650.0,114400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2013,1202.0,800.0,128400
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2014,1338.0,900.0,151700
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2015,1388.0,900.0,164600
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2016,1472.0,900.0,153700
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2017,1675.0,1200.0,159500
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2018,1854.0,1316.0,172300
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2019,1995.0,1436.0,183200
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2020,1971.0,1274.0,213500
+msic_n,Administrative and support service activities ,Aktiviti pentadbiran dan khidmat sokongan,female,2021,2119.6,1692.0,216300
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2010,2264.0,2000.0,227200
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2011,2384.0,2080.0,212900
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2012,2406.0,2095.0,207100
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2013,2647.0,2367.0,233800
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2014,2975.0,2645.0,222900
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2015,3007.0,2615.0,225400
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2016,3447.0,2820.0,211500
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2017,3531.0,3150.0,225700
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2018,3743.0,3155.0,199800
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2019,4062.0,3475.0,210800
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2020,4006.0,3623.0,235000
+msic_o,Public administration and defence; compulsory social security,Pentadbiran awam dan pertahanan; aktiviti keselamatan sosial wajib,female,2021,4278.9,3993.0,210800
+msic_p,Education ,Pendidikan,female,2010,2687.0,2650.0,468300
+msic_p,Education ,Pendidikan,female,2011,2695.0,2700.0,485000
+msic_p,Education ,Pendidikan,female,2012,2926.0,3000.0,493100
+msic_p,Education ,Pendidikan,female,2013,3205.0,3237.0,513299
+msic_p,Education ,Pendidikan,female,2014,3470.0,3547.0,549900
+msic_p,Education ,Pendidikan,female,2015,3751.0,3770.0,565000
+msic_p,Education ,Pendidikan,female,2016,3842.0,3926.0,560900
+msic_p,Education ,Pendidikan,female,2017,4262.0,4200.0,552800
+msic_p,Education ,Pendidikan,female,2018,4409.0,4267.0,604500
+msic_p,Education ,Pendidikan,female,2019,4798.0,4692.0,608800
+msic_p,Education ,Pendidikan,female,2020,4698.0,4777.0,588400
+msic_p,Education ,Pendidikan,female,2021,5019.2,4869.0,554000
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2010,2178.0,1937.0,164700
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2011,2187.0,2000.0,192900
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2012,2326.0,2146.0,215100
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2013,2533.0,2300.0,220300
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2014,2818.0,2500.0,222500
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2015,2809.0,2550.0,234500
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2016,3070.0,2990.0,263700
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2017,3498.0,3000.0,275700
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2018,3771.0,3143.0,255400
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2019,3881.0,3519.0,278000
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2020,3767.0,3436.0,297200
+msic_q,Human health and social work activities ,Aktiviti kesihatan kemanusiaan dan kerja sosial,female,2021,4166.7,4071.0,286000
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2010,1396.0,1100.0,26100
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2011,1332.0,950.0,29500
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2012,1448.0,1200.0,22900
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2013,1581.0,1434.0,31200
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2014,1653.0,1500.0,21700
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2015,1979.0,1500.0,22700
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2016,1941.0,1550.0,34600
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2017,2549.0,1895.0,26200
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2018,2262.0,1794.0,23900
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2019,2335.0,1914.0,21800
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2020,2436.0,1817.0,21700
+msic_r,"Arts, entertainment and recreation","Kesenian, hiburan dan rekreasi",female,2021,2630.5,2362.0,15300
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2010,1301.0,1150.0,55900
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2011,1249.0,1000.0,60800
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2012,1334.0,1200.0,58500
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2013,1454.0,1200.0,64000
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2014,1682.0,1300.0,71200
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2015,1551.0,1320.0,62700
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2016,1736.0,1500.0,57400
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2017,1761.0,1550.0,72300
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2018,2001.0,1917.0,66600
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2019,2200.0,1918.0,75300
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2020,2042.0,1593.0,75000
+msic_s,Other service activities,Aktiviti perkhidmatan lain,female,2021,2006.5,1704.0,64900

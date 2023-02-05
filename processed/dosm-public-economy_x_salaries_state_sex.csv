@@ -1,0 +1,613 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+overall,Overall,Keseluruhan,overall,2010,1936.0,1500.0,7149200
+overall,Overall,Keseluruhan,overall,2011,1959.0,1500.0,7634000
+overall,Overall,Keseluruhan,overall,2012,2052.0,1566.0,7782900
+overall,Overall,Keseluruhan,overall,2013,2186.0,1700.0,7903100
+overall,Overall,Keseluruhan,overall,2014,2377.0,1800.0,8392400
+overall,Overall,Keseluruhan,overall,2015,2487.0,1942.0,8348600
+overall,Overall,Keseluruhan,overall,2016,2657.0,2000.0,8424100
+overall,Overall,Keseluruhan,overall,2017,2879.0,2160.0,8677100
+overall,Overall,Keseluruhan,overall,2018,3087.0,2308.0,8761200
+overall,Overall,Keseluruhan,overall,2019,3224.0,2442.0,9195200
+overall,Overall,Keseluruhan,overall,2020,2933.0,2062.0,9390700
+overall,Overall,Keseluruhan,overall,2021,3036.9,2250.0,9711900
+johor,Johor,Johor,overall,2010,1795.0,1500.0,913900
+johor,Johor,Johor,overall,2011,1940.0,1520.0,973900
+johor,Johor,Johor,overall,2012,2035.0,1695.0,972000
+johor,Johor,Johor,overall,2013,2114.0,1700.0,1023900
+johor,Johor,Johor,overall,2014,2466.0,2000.0,1054200
+johor,Johor,Johor,overall,2015,2549.0,2200.0,1013800
+johor,Johor,Johor,overall,2016,2656.0,2200.0,1039099
+johor,Johor,Johor,overall,2017,2932.0,2250.0,1092000
+johor,Johor,Johor,overall,2018,3227.8072514776745,2418.0,1106000
+johor,Johor,Johor,overall,2019,3266.0,2512.0,1133600
+johor,Johor,Johor,overall,2020,2840.0,2124.0,1162100
+johor,Johor,Johor,overall,2021,2853.3,2184.0,1169200
+kedah,Kedah,Kedah,overall,2010,1501.0,1060.0,449400
+kedah,Kedah,Kedah,overall,2011,1555.0,1190.0,442900
+kedah,Kedah,Kedah,overall,2012,1543.0,1150.0,434400
+kedah,Kedah,Kedah,overall,2013,1759.0,1200.0,455700
+kedah,Kedah,Kedah,overall,2014,1972.0,1300.0,502500
+kedah,Kedah,Kedah,overall,2015,2024.0,1400.0,519600
+kedah,Kedah,Kedah,overall,2016,2109.0,1510.0,502700
+kedah,Kedah,Kedah,overall,2017,2193.0,1650.0,506200
+kedah,Kedah,Kedah,overall,2018,2293.663681232702,1703.0,529300
+kedah,Kedah,Kedah,overall,2019,2413.0,1748.0,550600
+kedah,Kedah,Kedah,overall,2020,2300.0,1474.0,583800
+kedah,Kedah,Kedah,overall,2021,2465.0,1757.0,622800
+kelantan,Kelantan,Kelantan,overall,2010,1645.0,1000.0,252200
+kelantan,Kelantan,Kelantan,overall,2011,1622.0,1000.0,288200
+kelantan,Kelantan,Kelantan,overall,2012,1604.0,1000.0,290200
+kelantan,Kelantan,Kelantan,overall,2013,1662.0,1000.0,293400
+kelantan,Kelantan,Kelantan,overall,2014,1853.0,1040.0,314900
+kelantan,Kelantan,Kelantan,overall,2015,2069.0,1200.0,337700
+kelantan,Kelantan,Kelantan,overall,2016,2248.0,1345.0,352900
+kelantan,Kelantan,Kelantan,overall,2017,2319.0,1500.0,362100
+kelantan,Kelantan,Kelantan,overall,2018,2418.7941263028943,1604.0,367500
+kelantan,Kelantan,Kelantan,overall,2019,2571.0,1639.0,383900
+kelantan,Kelantan,Kelantan,overall,2020,2463.0,1343.0,409500
+kelantan,Kelantan,Kelantan,overall,2021,2542.6,1632.0,440800
+melaka,Melaka,Melaka,overall,2010,1717.0,1300.0,227200
+melaka,Melaka,Melaka,overall,2011,1765.0,1350.0,234500
+melaka,Melaka,Melaka,overall,2012,1879.0,1440.0,238100
+melaka,Melaka,Melaka,overall,2013,2061.0,1580.0,244900
+melaka,Melaka,Melaka,overall,2014,2123.0,1660.0,255000
+melaka,Melaka,Melaka,overall,2015,2174.0,1600.0,187300
+melaka,Melaka,Melaka,overall,2016,2297.0,1760.0,271300
+melaka,Melaka,Melaka,overall,2017,2565.0,2145.0,284200
+melaka,Melaka,Melaka,overall,2018,2852.8189094463924,2332.0,283800
+melaka,Melaka,Melaka,overall,2019,2990.0,2415.0,299500
+melaka,Melaka,Melaka,overall,2020,2925.0,2120.0,320500
+melaka,Melaka,Melaka,overall,2021,2937.1,2190.0,345900
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2010,1885.0,1500.0,234500
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2011,1975.0,1500.0,267400
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2012,1922.0,1500.0,267700
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2013,2246.0,1800.0,268200
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2014,2445.0,1800.0,281100
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2015,2464.0,1950.0,275600
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2016,2628.0,2060.0,294800
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2017,2874.0,2170.0,303200
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2018,3047.873847696847,2348.0,309100
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2019,3218.0,2433.0,314900
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2020,3013.0,2062.0,332900
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,overall,2021,3045.3,2297.0,326600
+pahang,Pahang ,Pahang ,overall,2010,1660.0,1341.0,315200
+pahang,Pahang ,Pahang ,overall,2011,1695.0,1380.0,347800
+pahang,Pahang ,Pahang ,overall,2012,1718.0,1327.0,348400
+pahang,Pahang ,Pahang ,overall,2013,1919.0,1500.0,338400
+pahang,Pahang ,Pahang ,overall,2014,2062.0,1585.0,391200
+pahang,Pahang ,Pahang ,overall,2015,2122.0,1620.0,507300
+pahang,Pahang ,Pahang ,overall,2016,2185.0,1650.0,374500
+pahang,Pahang ,Pahang ,overall,2017,2425.0,1870.0,386100
+pahang,Pahang ,Pahang ,overall,2018,2661.8285515247985,2111.0,393100
+pahang,Pahang ,Pahang ,overall,2019,2754.0,2225.0,424700
+pahang,Pahang ,Pahang ,overall,2020,2684.0,1753.0,452000
+pahang,Pahang ,Pahang ,overall,2021,2708.1,1917.0,449700
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2010,1944.0,1500.0,501400
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2011,2016.0,1500.0,527900
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2012,2021.0,1515.0,525800
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2013,2106.0,1631.0,529100
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2014,2339.0,1800.0,553000
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2015,2414.0,1900.0,556200
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2016,2603.0,2000.0,555800
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2017,2672.0,2160.0,565600
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2018,2811.0565481357407,2215.0,566200
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2019,3022.0,2346.0,586700
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2020,2883.0,2082.0,613600
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,overall,2021,3079.6,2353.0,600200
+perak,Perak,Perak,overall,2010,1622.0,1200.0,545700
+perak,Perak,Perak,overall,2011,1607.0,1200.0,594900
+perak,Perak,Perak,overall,2012,1712.0,1300.0,584700
+perak,Perak,Perak,overall,2013,1732.0,1300.0,589700
+perak,Perak,Perak,overall,2014,1859.0,1441.0,644800
+perak,Perak,Perak,overall,2015,2030.0,1500.0,653500
+perak,Perak,Perak,overall,2016,2206.0,1650.0,647900
+perak,Perak,Perak,overall,2017,2281.0,1700.0,659200
+perak,Perak,Perak,overall,2018,2387.344891115013,1775.0,676200
+perak,Perak,Perak,overall,2019,2571.0,1858.0,699900
+perak,Perak,Perak,overall,2020,2463.0,1629.0,689400
+perak,Perak,Perak,overall,2021,2607.6,1918.0,753600
+perlis,Perlis,Perlis,overall,2010,1709.0,1200.0,46400
+perlis,Perlis,Perlis,overall,2011,1682.0,1200.0,47700
+perlis,Perlis,Perlis,overall,2012,1609.0,1050.0,49700
+perlis,Perlis,Perlis,overall,2013,1710.0,1000.0,50200
+perlis,Perlis,Perlis,overall,2014,2084.0,1350.0,56300
+perlis,Perlis,Perlis,overall,2015,2248.0,1495.0,56200
+perlis,Perlis,Perlis,overall,2016,2271.0,1630.0,62200
+perlis,Perlis,Perlis,overall,2017,2465.0,1800.0,61500
+perlis,Perlis,Perlis,overall,2018,2628.086687473212,1989.0,61800
+perlis,Perlis,Perlis,overall,2019,2723.0,2010.0,69400
+perlis,Perlis,Perlis,overall,2020,2596.0,1571.0,70400
+perlis,Perlis,Perlis,overall,2021,2587.5,1797.0,76300
+selangor,Selangor,Selangor,overall,2010,2429.0,1894.0,1733300
+selangor,Selangor,Selangor,overall,2011,2314.0,1800.0,1845800
+selangor,Selangor,Selangor,overall,2012,2501.0,2000.0,1948900
+selangor,Selangor,Selangor,overall,2013,2666.0,2000.0,1952900
+selangor,Selangor,Selangor,overall,2014,2820.0,2200.0,2058900
+selangor,Selangor,Selangor,overall,2015,3073.0,2500.0,1982300
+selangor,Selangor,Selangor,overall,2016,3239.0,2500.0,2043000
+selangor,Selangor,Selangor,overall,2017,3454.0,2580.0,2147800
+selangor,Selangor,Selangor,overall,2018,3667.9531967684634,2695.0,2153500
+selangor,Selangor,Selangor,overall,2019,3892.0,2956.0,2333600
+selangor,Selangor,Selangor,overall,2020,3480.0,2725.0,2291300
+selangor,Selangor,Selangor,overall,2021,3543.5,2884.0,2304600
+terengganu,Terengganu,Terengganu,overall,2010,1737.0,1200.0,225400
+terengganu,Terengganu,Terengganu,overall,2011,1645.0,1158.0,248700
+terengganu,Terengganu,Terengganu,overall,2012,1761.0,1200.0,248100
+terengganu,Terengganu,Terengganu,overall,2013,1819.0,1150.0,243800
+terengganu,Terengganu,Terengganu,overall,2014,1932.0,1250.0,260899
+terengganu,Terengganu,Terengganu,overall,2015,2107.0,1500.0,267100
+terengganu,Terengganu,Terengganu,overall,2016,2341.0,1500.0,272400
+terengganu,Terengganu,Terengganu,overall,2017,2522.0,1700.0,285000
+terengganu,Terengganu,Terengganu,overall,2018,2695.444622783235,1874.0,285000
+terengganu,Terengganu,Terengganu,overall,2019,2766.0,1911.0,306700
+terengganu,Terengganu,Terengganu,overall,2020,2424.0,1514.0,318900
+terengganu,Terengganu,Terengganu,overall,2021,2490.1,1669.0,334600
+sabah,Sabah,Sabah,overall,2010,1578.0,1188.0,504000
+sabah,Sabah,Sabah,overall,2011,1623.0,1200.0,561100
+sabah,Sabah,Sabah,overall,2012,1634.0,1100.0,582800
+sabah,Sabah,Sabah,overall,2013,1877.0,1300.0,608800
+sabah,Sabah,Sabah,overall,2014,1998.0,1400.0,645500
+sabah,Sabah,Sabah,overall,2015,2046.0,1480.0,646500
+sabah,Sabah,Sabah,overall,2016,2224.0,1600.0,661700
+sabah,Sabah,Sabah,overall,2017,2507.0,1763.0,654200
+sabah,Sabah,Sabah,overall,2018,2744.6864215327287,1951.0,665200
+sabah,Sabah,Sabah,overall,2019,2836.0,1980.0,688400
+sabah,Sabah,Sabah,overall,2020,2678.0,1716.0,705900
+sabah,Sabah,Sabah,overall,2021,2826.0,1930.0,753100
+sarawak,Sarawak,Sarawak,overall,2010,1706.0,1100.0,579000
+sarawak,Sarawak,Sarawak,overall,2011,1753.0,1200.0,605700
+sarawak,Sarawak,Sarawak,overall,2012,1735.0,1200.0,635800
+sarawak,Sarawak,Sarawak,overall,2013,1929.0,1400.0,632200
+sarawak,Sarawak,Sarawak,overall,2014,2069.0,1400.0,696900
+sarawak,Sarawak,Sarawak,overall,2015,2077.0,1450.0,697000
+sarawak,Sarawak,Sarawak,overall,2016,2255.0,1500.0,706100
+sarawak,Sarawak,Sarawak,overall,2017,2513.0,1800.0,728800
+sarawak,Sarawak,Sarawak,overall,2018,2756.9531567926465,2033.0,743000
+sarawak,Sarawak,Sarawak,overall,2019,2819.0,2070.0,775700
+sarawak,Sarawak,Sarawak,overall,2020,2509.0,1593.0,799900
+sarawak,Sarawak,Sarawak,overall,2021,2825.5,2059.0,853200
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2010,2290.0,1900.0,558200
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2011,2513.0,2000.0,580500
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2012,2729.0,2000.0,589900
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2013,2717.0,2295.0,606700
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2014,3111.0,2500.0,609300
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2015,3162.0,2500.0,583500
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2016,3482.0,2500.0,575300
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2017,3969.0,2650.0,579800
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2018,4335.801621333212,2946.0,557200
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2019,4359.0,3106.0,564800
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2020,3823.0,3037.0,576100
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,overall,2021,4013.1,3054.0,612800
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2010,1993.0,1675.0,27900
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2011,1903.0,1500.0,29200
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2012,1931.0,1519.0,30000
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2013,2254.0,1800.0,29700
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2014,2317.0,1700.0,31300
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2015,2425.0,1900.0,30600
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2016,2610.0,2000.0,30600
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2017,2849.0,2170.0,28700
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2018,3054.3055829969103,2419.0,31100
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2019,3323.0,2712.0,30500
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2020,2942.0,2130.0,32200
+wp-labuan,W.P. Labuan,W.P. Labuan,overall,2021,3268.2,2611.0,35100
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2010,2689.0,2095.0,35600
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2011,2837.0,2320.0,37800
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2012,3124.0,2625.0,36400
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2013,3183.0,2500.0,35400
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2014,3267.0,2695.0,36500
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2015,3743.0,3000.0,34400
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2016,3995.0,3250.0,33700
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2017,4220.0,3500.0,32800
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2018,4529.6710756717575,3673.0,33200
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2019,4695.0,3749.0,32100
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2020,4497.0,3717.0,32200
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,overall,2021,4503.7,3837.0,33400
+overall,Overall,Keseluruhan,male,2010,2003.0,1500.0,4432600
+overall,Overall,Keseluruhan,male,2011,2035.0,1500.0,4680100
+overall,Overall,Keseluruhan,male,2012,2126.0,1600.0,4745000
+overall,Overall,Keseluruhan,male,2013,2259.0,1800.0,4784200
+overall,Overall,Keseluruhan,male,2014,2455.0,1888.0,5070700
+overall,Overall,Keseluruhan,male,2015,2558.0,2000.0,5049400
+overall,Overall,Keseluruhan,male,2016,2741.0,2000.0,5034400
+overall,Overall,Keseluruhan,male,2017,2953.0,2170.0,5151200
+overall,Overall,Keseluruhan,male,2018,3174.0,2342.0,5209800
+overall,Overall,Keseluruhan,male,2019,3304.0,2477.0,5435900
+overall,Overall,Keseluruhan,male,2020,2963.0,2093.0,5551000
+overall,Overall,Keseluruhan,male,2021,3084.7,2315.0,5733900
+johor,Johor,Johor,male,2010,1921.0,1550.0,585000
+johor,Johor,Johor,male,2011,2107.0,1745.0,619000
+johor,Johor,Johor,male,2012,2169.0,1800.0,616100
+johor,Johor,Johor,male,2013,2284.0,1885.0,643000
+johor,Johor,Johor,male,2014,2644.0,2050.0,668300
+johor,Johor,Johor,male,2015,2684.0,2300.0,638200
+johor,Johor,Johor,male,2016,2852.0,2200.0,652000
+johor,Johor,Johor,male,2017,3158.0,2400.0,677300
+johor,Johor,Johor,male,2018,3483.0,2556.0,684400
+johor,Johor,Johor,male,2019,3507.0,2646.0,703500
+johor,Johor,Johor,male,2020,2922.0,2169.0,750900
+johor,Johor,Johor,male,2021,2887.7,2232.0,733300
+kedah,Kedah,Kedah,male,2010,1544.0,1170.0,279200
+kedah,Kedah,Kedah,male,2011,1611.0,1200.0,275100
+kedah,Kedah,Kedah,male,2012,1590.0,1200.0,272200
+kedah,Kedah,Kedah,male,2013,1776.0,1300.0,282500
+kedah,Kedah,Kedah,male,2014,1978.0,1400.0,303100
+kedah,Kedah,Kedah,male,2015,2047.0,1500.0,306500
+kedah,Kedah,Kedah,male,2016,2108.0,1600.0,292000
+kedah,Kedah,Kedah,male,2017,2148.0,1650.0,292100
+kedah,Kedah,Kedah,male,2018,2323.0,1760.0,307200
+kedah,Kedah,Kedah,male,2019,2387.0,1812.0,327500
+kedah,Kedah,Kedah,male,2020,2241.0,1505.0,368500
+kedah,Kedah,Kedah,male,2021,2397.8,1716.0,368400
+kelantan,Kelantan,Kelantan,male,2010,1548.0,1000.0,164200
+kelantan,Kelantan,Kelantan,male,2011,1504.0,1000.0,187700
+kelantan,Kelantan,Kelantan,male,2012,1533.0,1000.0,181300
+kelantan,Kelantan,Kelantan,male,2013,1535.0,1000.0,189500
+kelantan,Kelantan,Kelantan,male,2014,1704.0,1000.0,193900
+kelantan,Kelantan,Kelantan,male,2015,1926.0,1200.0,219800
+kelantan,Kelantan,Kelantan,male,2016,2078.0,1225.0,215800
+kelantan,Kelantan,Kelantan,male,2017,2156.0,1400.0,228900
+kelantan,Kelantan,Kelantan,male,2018,2272.0,1604.0,228600
+kelantan,Kelantan,Kelantan,male,2019,2371.0,1601.0,242100
+kelantan,Kelantan,Kelantan,male,2020,2308.0,1343.0,253400
+kelantan,Kelantan,Kelantan,male,2021,2383.3,1580.0,297900
+melaka,Melaka,Melaka,male,2010,1773.0,1400.0,133800
+melaka,Melaka,Melaka,male,2011,1883.0,1500.0,137500
+melaka,Melaka,Melaka,male,2012,1950.0,1500.0,141700
+melaka,Melaka,Melaka,male,2013,2126.0,1656.0,142700
+melaka,Melaka,Melaka,male,2014,2161.0,1700.0,145900
+melaka,Melaka,Melaka,male,2015,2219.0,1700.0,112100
+melaka,Melaka,Melaka,male,2016,2397.0,1800.0,155600
+melaka,Melaka,Melaka,male,2017,2599.0,2170.0,162700
+melaka,Melaka,Melaka,male,2018,2939.0,2382.0,161200
+melaka,Melaka,Melaka,male,2019,3095.0,2489.0,170400
+melaka,Melaka,Melaka,male,2020,2985.0,2169.0,181500
+melaka,Melaka,Melaka,male,2021,2982.2,2263.0,182500
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2010,1936.0,1540.0,149100
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2011,2070.0,1600.0,163600
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2012,2014.0,1620.0,157500
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2013,2350.0,1900.0,160000
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2014,2597.0,1900.0,167600
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2015,2590.0,2000.0,168200
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2016,2815.0,2080.0,171100
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2017,3031.0,2250.0,181900
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2018,3189.0,2442.0,181900
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2019,3272.0,2513.0,188700
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2020,3060.0,2169.0,196100
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,male,2021,3055.4,2361.0,188600
+pahang,Pahang ,Pahang ,male,2010,1732.0,1418.0,201300
+pahang,Pahang ,Pahang ,male,2011,1731.0,1430.0,229300
+pahang,Pahang ,Pahang ,male,2012,1745.0,1400.0,222600
+pahang,Pahang ,Pahang ,male,2013,1918.0,1500.0,219700
+pahang,Pahang ,Pahang ,male,2014,2094.0,1620.0,245100
+pahang,Pahang ,Pahang ,male,2015,2168.0,1700.0,313500
+pahang,Pahang ,Pahang ,male,2016,2219.0,1682.0,230000
+pahang,Pahang ,Pahang ,male,2017,2406.0,1865.0,241200
+pahang,Pahang ,Pahang ,male,2018,2632.0,2140.0,247900
+pahang,Pahang ,Pahang ,male,2019,2718.0,2260.0,264400
+pahang,Pahang ,Pahang ,male,2020,2608.0,1722.0,289300
+pahang,Pahang ,Pahang ,male,2021,2670.9,1902.0,264300
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2010,2052.0,1530.0,293600
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2011,2119.0,1560.0,312100
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2012,2115.0,1600.0,303300
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2013,2234.0,1775.0,309400
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2014,2474.0,2000.0,320000
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2015,2555.0,2000.0,324700
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2016,2734.0,2000.0,321100
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2017,2791.0,2170.0,325900
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2018,3010.0,2241.0,321900
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2019,3186.0,2481.0,337200
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2020,2992.0,2272.0,347100
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,male,2021,3150.8,2422.0,332400
+perak,Perak,Perak,male,2010,1681.0,1300.0,354700
+perak,Perak,Perak,male,2011,1660.0,1300.0,370600
+perak,Perak,Perak,male,2012,1765.0,1415.0,362500
+perak,Perak,Perak,male,2013,1766.0,1400.0,366700
+perak,Perak,Perak,male,2014,1926.0,1500.0,393000
+perak,Perak,Perak,male,2015,2082.0,1560.0,402600
+perak,Perak,Perak,male,2016,2260.0,1703.0,391400
+perak,Perak,Perak,male,2017,2310.0,1760.0,391400
+perak,Perak,Perak,male,2018,2461.0,1935.0,402500
+perak,Perak,Perak,male,2019,2653.0,2013.0,416300
+perak,Perak,Perak,male,2020,2462.0,1722.0,421700
+perak,Perak,Perak,male,2021,2600.4,2008.0,427300
+perlis,Perlis,Perlis,male,2010,1722.0,1200.0,28700
+perlis,Perlis,Perlis,male,2011,1663.0,1200.0,28600
+perlis,Perlis,Perlis,male,2012,1602.0,1200.0,29900
+perlis,Perlis,Perlis,male,2013,1717.0,1200.0,29700
+perlis,Perlis,Perlis,male,2014,2074.0,1445.0,33900
+perlis,Perlis,Perlis,male,2015,2144.0,1410.0,33200
+perlis,Perlis,Perlis,male,2016,2302.0,1630.0,37200
+perlis,Perlis,Perlis,male,2017,2388.0,1650.0,37800
+perlis,Perlis,Perlis,male,2018,2522.0,2011.0,38600
+perlis,Perlis,Perlis,male,2019,2640.0,2070.0,41300
+perlis,Perlis,Perlis,male,2020,2505.0,1571.0,41700
+perlis,Perlis,Perlis,male,2021,2503.4,1772.0,45100
+selangor,Selangor,Selangor,male,2010,2538.0,2000.0,1031099
+selangor,Selangor,Selangor,male,2011,2466.0,1990.0,1085500
+selangor,Selangor,Selangor,male,2012,2659.0,2000.0,1139700
+selangor,Selangor,Selangor,male,2013,2825.0,2200.0,1133300
+selangor,Selangor,Selangor,male,2014,2975.0,2400.0,1207300
+selangor,Selangor,Selangor,male,2015,3236.0,2500.0,1162300
+selangor,Selangor,Selangor,male,2016,3404.0,2600.0,1171700
+selangor,Selangor,Selangor,male,2017,3651.0,2745.0,1213300
+selangor,Selangor,Selangor,male,2018,3855.0,2888.0,1229600
+selangor,Selangor,Selangor,male,2019,4114.0,3169.0,1283000
+selangor,Selangor,Selangor,male,2020,3679.0,2887.0,1213700
+selangor,Selangor,Selangor,male,2021,3816.2,3149.0,1333000
+terengganu,Terengganu,Terengganu,male,2010,1770.0,1200.0,149100
+terengganu,Terengganu,Terengganu,male,2011,1665.0,1150.0,163000
+terengganu,Terengganu,Terengganu,male,2012,1775.0,1200.0,162600
+terengganu,Terengganu,Terengganu,male,2013,1826.0,1200.0,160400
+terengganu,Terengganu,Terengganu,male,2014,1947.0,1300.0,171400
+terengganu,Terengganu,Terengganu,male,2015,2105.0,1500.0,173300
+terengganu,Terengganu,Terengganu,male,2016,2358.0,1600.0,179200
+terengganu,Terengganu,Terengganu,male,2017,2521.0,1680.0,180200
+terengganu,Terengganu,Terengganu,male,2018,2705.0,1860.0,183400
+terengganu,Terengganu,Terengganu,male,2019,2793.0,1911.0,194000
+terengganu,Terengganu,Terengganu,male,2020,2428.0,1632.0,205100
+terengganu,Terengganu,Terengganu,male,2021,2494.5,1692.0,210200
+sabah,Sabah,Sabah,male,2010,1603.0,1150.0,319100
+sabah,Sabah,Sabah,male,2011,1619.0,1115.0,342300
+sabah,Sabah,Sabah,male,2012,1637.0,1100.0,354300
+sabah,Sabah,Sabah,male,2013,1853.0,1300.0,358300
+sabah,Sabah,Sabah,male,2014,1977.0,1379.0,386000
+sabah,Sabah,Sabah,male,2015,2026.0,1500.0,381300
+sabah,Sabah,Sabah,male,2016,2243.0,1600.0,397100
+sabah,Sabah,Sabah,male,2017,2509.0,1750.0,391900
+sabah,Sabah,Sabah,male,2018,2703.0,1947.0,400500
+sabah,Sabah,Sabah,male,2019,2830.0,1980.0,419900
+sabah,Sabah,Sabah,male,2020,2615.0,1692.0,421300
+sabah,Sabah,Sabah,male,2021,2788.2,1930.0,464000
+sarawak,Sarawak,Sarawak,male,2010,1759.0,1100.0,393400
+sarawak,Sarawak,Sarawak,male,2011,1800.0,1200.0,407600
+sarawak,Sarawak,Sarawak,male,2012,1776.0,1200.0,425900
+sarawak,Sarawak,Sarawak,male,2013,1986.0,1475.0,418600
+sarawak,Sarawak,Sarawak,male,2014,2126.0,1472.0,460100
+sarawak,Sarawak,Sarawak,male,2015,2068.0,1440.0,448800
+sarawak,Sarawak,Sarawak,male,2016,2295.0,1600.0,458700
+sarawak,Sarawak,Sarawak,male,2017,2504.0,1750.0,474400
+sarawak,Sarawak,Sarawak,male,2018,2751.0,2063.0,477200
+sarawak,Sarawak,Sarawak,male,2019,2827.0,2081.0,498300
+sarawak,Sarawak,Sarawak,male,2020,2509.0,1687.0,506700
+sarawak,Sarawak,Sarawak,male,2021,2721.3,1964.0,520799
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2010,2451.0,1965.0,315500
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2011,2637.0,2000.0,321600
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2012,2887.0,2000.0,339600
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2013,2887.0,2400.0,334400
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2014,3249.0,2500.0,338700
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2015,3366.0,2500.0,327900
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2016,3635.0,2500.0,327000
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2017,4129.0,2800.0,318800
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2018,4465.0,2963.0,310900
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2019,4528.0,3096.0,314900
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2020,4062.0,3093.0,320200
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,male,2021,4292.3,3255.0,330300
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2010,2161.0,1800.0,18000
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2011,1941.0,1500.0,19000
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2012,2008.0,1685.0,19100
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2013,2347.0,1850.0,19600
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2014,2397.0,1800.0,20500
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2015,2556.0,2000.0,19800
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2016,2775.0,2100.0,19200
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2017,3054.0,2250.0,19100
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2018,3166.0,2513.0,19800
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2019,3457.0,2841.0,19800
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2020,3154.0,2386.0,19800
+wp-labuan,W.P. Labuan,W.P. Labuan,male,2021,3371.5,2794.0,20700
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2010,3024.0,2300.0,16700
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2011,3031.0,2440.0,17500
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2012,3440.0,2847.0,16500
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2013,3484.0,2735.0,16300
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2014,3151.0,2640.0,16000
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2015,3944.0,3015.0,17300
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2016,4282.0,3500.0,15100
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2017,4538.0,3535.0,14400
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2018,5074.0,3849.0,14200
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2019,4991.0,3985.0,14500
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2020,4633.0,3717.0,14000
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,male,2021,4540.2,3835.0,15100
+overall,Overall,Keseluruhan,female,2010,1825.0,1498.0,2716600
+overall,Overall,Keseluruhan,female,2011,1838.0,1467.0,2953900
+overall,Overall,Keseluruhan,female,2012,1935.0,1500.0,3037900
+overall,Overall,Keseluruhan,female,2013,2072.0,1600.0,3118900
+overall,Overall,Keseluruhan,female,2014,2259.0,1700.0,3321800
+overall,Overall,Keseluruhan,female,2015,2380.0,1855.0,3299200
+overall,Overall,Keseluruhan,female,2016,2532.0,2000.0,3389700
+overall,Overall,Keseluruhan,female,2017,2772.0,2145.0,3525900
+overall,Overall,Keseluruhan,female,2018,2959.0,2227.0,3551400
+overall,Overall,Keseluruhan,female,2019,3108.0,2370.0,3759300
+overall,Overall,Keseluruhan,female,2020,2889.0,2019.0,3839600
+overall,Overall,Keseluruhan,female,2021,2968.1,2145.0,3978000
+johor,Johor,Johor,female,2010,1569.0,1200.0,328800
+johor,Johor,Johor,female,2011,1649.0,1280.0,354900
+johor,Johor,Johor,female,2012,1803.0,1475.0,356000
+johor,Johor,Johor,female,2013,1829.0,1480.0,380900
+johor,Johor,Johor,female,2014,2158.0,1600.0,385900
+johor,Johor,Johor,female,2015,2320.0,1700.0,375600
+johor,Johor,Johor,female,2016,2324.0,1685.0,387100
+johor,Johor,Johor,female,2017,2564.0,1800.0,414700
+johor,Johor,Johor,female,2018,2813.0,2104.0,421600
+johor,Johor,Johor,female,2019,2873.0,2254.0,430100
+johor,Johor,Johor,female,2020,2691.0,1861.0,411100
+johor,Johor,Johor,female,2021,2795.4,2071.0,435900
+kedah,Kedah,Kedah,female,2010,1429.0,950.0,170200
+kedah,Kedah,Kedah,female,2011,1464.0,900.0,167800
+kedah,Kedah,Kedah,female,2012,1464.0,1000.0,162200
+kedah,Kedah,Kedah,female,2013,1732.0,1100.0,173300
+kedah,Kedah,Kedah,female,2014,1963.0,1200.0,199500
+kedah,Kedah,Kedah,female,2015,1990.0,1200.0,213100
+kedah,Kedah,Kedah,female,2016,2111.0,1200.0,210700
+kedah,Kedah,Kedah,female,2017,2254.0,1550.0,214100
+kedah,Kedah,Kedah,female,2018,2253.0,1533.0,222200
+kedah,Kedah,Kedah,female,2019,2450.0,1670.0,223200
+kedah,Kedah,Kedah,female,2020,2401.0,1404.0,215400
+kedah,Kedah,Kedah,female,2021,2562.3,1803.0,254500
+kelantan,Kelantan,Kelantan,female,2010,1825.0,1210.0,88000
+kelantan,Kelantan,Kelantan,female,2011,1842.0,1325.0,100500
+kelantan,Kelantan,Kelantan,female,2012,1722.0,900.0,108900
+kelantan,Kelantan,Kelantan,female,2013,1894.0,1000.0,103900
+kelantan,Kelantan,Kelantan,female,2014,2092.0,1155.0,121000
+kelantan,Kelantan,Kelantan,female,2015,2336.0,1300.0,117900
+kelantan,Kelantan,Kelantan,female,2016,2517.0,1600.0,137100
+kelantan,Kelantan,Kelantan,female,2017,2598.0,1800.0,133200
+kelantan,Kelantan,Kelantan,female,2018,2660.0,1605.0,138800
+kelantan,Kelantan,Kelantan,female,2019,2911.0,1670.0,141800
+kelantan,Kelantan,Kelantan,female,2020,2715.0,1312.0,156100
+kelantan,Kelantan,Kelantan,female,2021,2874.7,1825.0,142900
+melaka,Melaka,Melaka,female,2010,1638.0,1200.0,93300
+melaka,Melaka,Melaka,female,2011,1596.0,1200.0,97000
+melaka,Melaka,Melaka,female,2012,1774.0,1330.0,96400
+melaka,Melaka,Melaka,female,2013,1971.0,1420.0,102100
+melaka,Melaka,Melaka,female,2014,2073.0,1540.0,109100
+melaka,Melaka,Melaka,female,2015,2106.0,1500.0,75100
+melaka,Melaka,Melaka,female,2016,2162.0,1680.0,115600
+melaka,Melaka,Melaka,female,2017,2519.0,2000.0,121500
+melaka,Melaka,Melaka,female,2018,2739.0,2154.0,122600
+melaka,Melaka,Melaka,female,2019,2853.0,2158.0,129100
+melaka,Melaka,Melaka,female,2020,2846.0,2019.0,139000
+melaka,Melaka,Melaka,female,2021,2886.7,2100.0,163400
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2010,1797.0,1350.0,85400
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2011,1826.0,1350.0,103800
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2012,1791.0,1300.0,110200
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2013,2091.0,1600.0,108200
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2014,2222.0,1527.0,113500
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2015,2267.0,1850.0,107400
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2016,2369.0,1800.0,123700
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2017,2639.0,2015.0,121300
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2018,2846.0,2137.0,127300
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2019,3138.0,2261.0,126200
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2020,2944.0,1918.0,136800
+negeri-sembilan,Negeri Sembilan,Negeri Sembilan,female,2021,3031.6,2213.0,138000
+pahang,Pahang ,Pahang ,female,2010,1533.0,1200.0,113900
+pahang,Pahang ,Pahang ,female,2011,1627.0,1269.0,118500
+pahang,Pahang ,Pahang ,female,2012,1669.0,1200.0,125700
+pahang,Pahang ,Pahang ,female,2013,1919.0,1500.0,118700
+pahang,Pahang ,Pahang ,female,2014,2009.0,1500.0,146200
+pahang,Pahang ,Pahang ,female,2015,2047.0,1500.0,193800
+pahang,Pahang ,Pahang ,female,2016,2131.0,1650.0,144600
+pahang,Pahang ,Pahang ,female,2017,2456.0,2000.0,144900
+pahang,Pahang ,Pahang ,female,2018,2712.0,1967.0,145200
+pahang,Pahang ,Pahang ,female,2019,2813.0,1980.0,160200
+pahang,Pahang ,Pahang ,female,2020,2819.0,1852.0,162700
+pahang,Pahang ,Pahang ,female,2021,2761.2,1922.0,185400
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2010,1791.0,1466.0,207800
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2011,1867.0,1368.0,215800
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2012,1893.0,1500.0,222500
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2013,1927.0,1500.0,219700
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2014,2154.0,1600.0,233100
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2015,2217.0,1700.0,231600
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2016,2424.0,2000.0,234700
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2017,2512.0,2160.0,239600
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2018,2549.0,2082.0,244300
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2019,2800.0,2206.0,249500
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2020,2741.0,1950.0,266500
+pulau-pinang,Pulau Pinang ,Pulau Pinang ,female,2021,2991.3,2267.0,267900
+perak,Perak,Perak,female,2010,1511.0,1000.0,191000
+perak,Perak,Perak,female,2011,1518.0,1000.0,224300
+perak,Perak,Perak,female,2012,1627.0,1100.0,222300
+perak,Perak,Perak,female,2013,1677.0,1100.0,223000
+perak,Perak,Perak,female,2014,1756.0,1200.0,251800
+perak,Perak,Perak,female,2015,1947.0,1200.0,250900
+perak,Perak,Perak,female,2016,2122.0,1500.0,256500
+perak,Perak,Perak,female,2017,2240.0,1650.0,267900
+perak,Perak,Perak,female,2018,2280.0,1640.0,273700
+perak,Perak,Perak,female,2019,2452.0,1650.0,283600
+perak,Perak,Perak,female,2020,2464.0,1514.0,267700
+perak,Perak,Perak,female,2021,2617.1,1784.0,326300
+perlis,Perlis,Perlis,female,2010,1688.0,1125.0,17700
+perlis,Perlis,Perlis,female,2011,1710.0,1240.0,19100
+perlis,Perlis,Perlis,female,2012,1620.0,900.0,19800
+perlis,Perlis,Perlis,female,2013,1701.0,900.0,20400
+perlis,Perlis,Perlis,female,2014,2099.0,1200.0,22400
+perlis,Perlis,Perlis,female,2015,2397.0,1500.0,23000
+perlis,Perlis,Perlis,female,2016,2225.0,1600.0,25000
+perlis,Perlis,Perlis,female,2017,2589.0,2145.0,23700
+perlis,Perlis,Perlis,female,2018,2805.0,1959.0,23200
+perlis,Perlis,Perlis,female,2019,2847.0,1900.0,28000
+perlis,Perlis,Perlis,female,2020,2730.0,1352.0,28700
+perlis,Perlis,Perlis,female,2021,2709.2,1922.0,31200
+selangor,Selangor,Selangor,female,2010,2269.0,1800.0,702200
+selangor,Selangor,Selangor,female,2011,2096.0,1650.0,760300
+selangor,Selangor,Selangor,female,2012,2279.0,2000.0,809100
+selangor,Selangor,Selangor,female,2013,2447.0,2000.0,819700
+selangor,Selangor,Selangor,female,2014,2602.0,2050.0,851600
+selangor,Selangor,Selangor,female,2015,2843.0,2500.0,820000
+selangor,Selangor,Selangor,female,2016,3016.0,2500.0,871300
+selangor,Selangor,Selangor,female,2017,3198.0,2515.0,934600
+selangor,Selangor,Selangor,female,2018,3419.0,2549.0,923900
+selangor,Selangor,Selangor,female,2019,3621.0,2788.0,1050600
+selangor,Selangor,Selangor,female,2020,3255.0,2523.0,1077500
+selangor,Selangor,Selangor,female,2021,3169.3,2347.0,971600
+terengganu,Terengganu,Terengganu,female,2010,1674.0,1200.0,76200
+terengganu,Terengganu,Terengganu,female,2011,1608.0,1174.0,85600
+terengganu,Terengganu,Terengganu,female,2012,1735.0,1200.0,85500
+terengganu,Terengganu,Terengganu,female,2013,1804.0,1000.0,83400
+terengganu,Terengganu,Terengganu,female,2014,1904.0,1000.0,89500
+terengganu,Terengganu,Terengganu,female,2015,2112.0,1300.0,93800
+terengganu,Terengganu,Terengganu,female,2016,2309.0,1300.0,93200
+terengganu,Terengganu,Terengganu,female,2017,2524.0,2145.0,104800
+terengganu,Terengganu,Terengganu,female,2018,2678.0,1903.0,101600
+terengganu,Terengganu,Terengganu,female,2019,2721.0,1853.0,112700
+terengganu,Terengganu,Terengganu,female,2020,2418.0,1312.0,113800
+terengganu,Terengganu,Terengganu,female,2021,2482.7,1592.0,124400
+sabah,Sabah,Sabah,female,2010,1535.0,1200.0,184900
+sabah,Sabah,Sabah,female,2011,1629.0,1200.0,218800
+sabah,Sabah,Sabah,female,2012,1630.0,1200.0,228400
+sabah,Sabah,Sabah,female,2013,1911.0,1400.0,250500
+sabah,Sabah,Sabah,female,2014,2029.0,1450.0,259399
+sabah,Sabah,Sabah,female,2015,2075.0,1400.0,265200
+sabah,Sabah,Sabah,female,2016,2194.0,1542.0,264700
+sabah,Sabah,Sabah,female,2017,2503.0,1800.0,262300
+sabah,Sabah,Sabah,female,2018,2807.0,1964.0,264800
+sabah,Sabah,Sabah,female,2019,2845.0,2060.0,268500
+sabah,Sabah,Sabah,female,2020,2770.0,1808.0,284600
+sabah,Sabah,Sabah,female,2021,2886.7,1924.0,289100
+sarawak,Sarawak,Sarawak,female,2010,1593.0,1100.0,185700
+sarawak,Sarawak,Sarawak,female,2011,1654.0,1141.0,198100
+sarawak,Sarawak,Sarawak,female,2012,1652.0,1100.0,209900
+sarawak,Sarawak,Sarawak,female,2013,1817.0,1300.0,213600
+sarawak,Sarawak,Sarawak,female,2014,1959.0,1250.0,236800
+sarawak,Sarawak,Sarawak,female,2015,2094.0,1500.0,248200
+sarawak,Sarawak,Sarawak,female,2016,2179.0,1500.0,247400
+sarawak,Sarawak,Sarawak,female,2017,2529.0,2145.0,254400
+sarawak,Sarawak,Sarawak,female,2018,2767.0,1952.0,265800
+sarawak,Sarawak,Sarawak,female,2019,2805.0,2070.0,277400
+sarawak,Sarawak,Sarawak,female,2020,2507.0,1593.0,293200
+sarawak,Sarawak,Sarawak,female,2021,2988.7,2384.0,332400
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2010,2082.0,1800.0,242700
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2011,2359.0,2000.0,259800
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2012,2514.0,2000.0,250300
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2013,2510.0,2050.0,272300
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2014,2939.0,2350.0,270600
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2015,2899.0,2500.0,255600
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2016,3281.0,2420.0,248200
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2017,3774.0,2500.0,261000
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2018,4173.0,2930.0,246300
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2019,4145.0,3179.0,249900
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2020,3524.0,3028.0,255900
+wp-kuala-lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,female,2021,3686.6,2863.0,282400
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2010,1685.0,1324.0,9900
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2011,1833.0,1459.0,10200
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2012,1794.0,1360.0,10900
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2013,2071.0,1500.0,10000
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2014,2165.0,1500.0,10800
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2015,2185.0,1500.0,10800
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2016,2332.0,1762.0,11400
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2017,2439.0,1800.0,9600
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2018,2858.0,2024.0,11300
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2019,3075.0,2261.0,10700
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2020,2603.0,1716.0,12400
+wp-labuan,W.P. Labuan,W.P. Labuan,female,2021,3119.4,2063.0,14400
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2010,2393.0,1989.0,18900
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2011,2670.0,2240.0,20300
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2012,2862.0,2514.0,19900
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2013,2925.0,2347.0,19100
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2014,3358.0,2775.0,20500
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2015,3541.0,3000.0,17100
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2016,3762.0,3250.0,18600
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2017,3971.0,3500.0,18400
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2018,4120.0,3563.0,18900
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2019,4453.0,3710.0,17600
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2020,4393.0,3729.0,18300
+wp-putrajaya,W.P. Putrajaya,W.P. Putrajaya,female,2021,4473.8,3837.0,18300

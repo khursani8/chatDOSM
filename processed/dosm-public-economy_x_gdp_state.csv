@@ -1,0 +1,337 @@
+state,series_type,date,value
+Johor,level,2015-01-01,110002000000.0
+Kedah,level,2015-01-01,39550000000.0
+Kelantan,level,2015-01-01,21408000000.0
+Melaka,level,2015-01-01,36077000000.0
+Negeri Sembilan,level,2015-01-01,40186000000.0
+Pahang,level,2015-01-01,49450000000.0
+Pulau Pinang,level,2015-01-01,78146000000.0
+Perak,level,2015-01-01,63176000000.0
+Perlis,level,2015-01-01,5353000000.0
+Selangor,level,2015-01-01,268825000000.0
+Terengganu,level,2015-01-01,31124000000.0
+Sabah,level,2015-01-01,73776000000.0
+Sarawak,level,2015-01-01,121585000000.0
+W.P. Kuala Lumpur,level,2015-01-01,180865000000.0
+W.P. Labuan,level,2015-01-01,5999000000.0
+Supra,level,2015-01-01,51420000000.0
+Johor,contribution,2015-01-01,9.3
+Kedah,contribution,2015-01-01,3.4
+Kelantan,contribution,2015-01-01,1.8
+Melaka,contribution,2015-01-01,3.1
+Negeri Sembilan,contribution,2015-01-01,3.4
+Pahang,contribution,2015-01-01,4.2
+Pulau Pinang,contribution,2015-01-01,6.6
+Perak,contribution,2015-01-01,5.4
+Perlis,contribution,2015-01-01,0.5
+Selangor,contribution,2015-01-01,22.8
+Terengganu,contribution,2015-01-01,2.6
+Sabah,contribution,2015-01-01,6.3
+Sarawak,contribution,2015-01-01,10.3
+W.P. Kuala Lumpur,contribution,2015-01-01,15.4
+W.P. Labuan,contribution,2015-01-01,0.5
+Supra,contribution,2015-01-01,4.4
+Johor,growth,2015-01-01,
+Kedah,growth,2015-01-01,
+Kelantan,growth,2015-01-01,
+Melaka,growth,2015-01-01,
+Negeri Sembilan,growth,2015-01-01,
+Pahang,growth,2015-01-01,
+Pulau Pinang,growth,2015-01-01,
+Perak,growth,2015-01-01,
+Perlis,growth,2015-01-01,
+Selangor,growth,2015-01-01,
+Terengganu,growth,2015-01-01,
+Sabah,growth,2015-01-01,
+Sarawak,growth,2015-01-01,
+W.P. Kuala Lumpur,growth,2015-01-01,
+W.P. Labuan,growth,2015-01-01,
+Supra,growth,2015-01-01,
+Johor,level,2016-01-01,116682000000.0
+Kedah,level,2016-01-01,41156000000.0
+Kelantan,level,2016-01-01,22476000000.0
+Melaka,level,2016-01-01,37713000000.0
+Negeri Sembilan,level,2016-01-01,41771000000.0
+Pahang,level,2016-01-01,50875000000.0
+Pulau Pinang,level,2016-01-01,82493000000.0
+Perak,level,2016-01-01,65958000000.0
+Perlis,level,2016-01-01,5570000000.0
+Selangor,level,2016-01-01,281839000000.0
+Terengganu,level,2016-01-01,32133000000.0
+Sabah,level,2016-01-01,77518000000.0
+Sarawak,level,2016-01-01,124513000000.0
+W.P. Kuala Lumpur,level,2016-01-01,191641000000.0
+W.P. Labuan,level,2016-01-01,6412000000.0
+Supra,level,2016-01-01,50562000000.0
+Johor,contribution,2016-01-01,9.5
+Kedah,contribution,2016-01-01,3.3
+Kelantan,contribution,2016-01-01,1.8
+Melaka,contribution,2016-01-01,3.1
+Negeri Sembilan,contribution,2016-01-01,3.4
+Pahang,contribution,2016-01-01,4.1
+Pulau Pinang,contribution,2016-01-01,6.7
+Perak,contribution,2016-01-01,5.4
+Perlis,contribution,2016-01-01,0.5
+Selangor,contribution,2016-01-01,22.9
+Terengganu,contribution,2016-01-01,2.6
+Sabah,contribution,2016-01-01,6.3
+Sarawak,contribution,2016-01-01,10.1
+W.P. Kuala Lumpur,contribution,2016-01-01,15.6
+W.P. Labuan,contribution,2016-01-01,0.5
+Supra,contribution,2016-01-01,4.1
+Johor,growth,2016-01-01,6.1
+Kedah,growth,2016-01-01,4.1
+Kelantan,growth,2016-01-01,5.0
+Melaka,growth,2016-01-01,4.5
+Negeri Sembilan,growth,2016-01-01,3.9
+Pahang,growth,2016-01-01,2.9
+Pulau Pinang,growth,2016-01-01,5.6
+Perak,growth,2016-01-01,4.4
+Perlis,growth,2016-01-01,4.0
+Selangor,growth,2016-01-01,4.8
+Terengganu,growth,2016-01-01,3.2
+Sabah,growth,2016-01-01,5.1
+Sarawak,growth,2016-01-01,2.4
+W.P. Kuala Lumpur,growth,2016-01-01,6.0
+W.P. Labuan,growth,2016-01-01,6.9
+Supra,growth,2016-01-01,-1.7
+Johor,level,2017-01-01,123561000000.0
+Kedah,level,2017-01-01,43067000000.0
+Kelantan,level,2017-01-01,23501000000.0
+Melaka,level,2017-01-01,40830000000.0
+Negeri Sembilan,level,2017-01-01,43816000000.0
+Pahang,level,2017-01-01,54591000000.0
+Pulau Pinang,level,2017-01-01,86768000000.0
+Perak,level,2017-01-01,69337000000.0
+Perlis,level,2017-01-01,5695000000.0
+Selangor,level,2017-01-01,302186000000.0
+Terengganu,level,2017-01-01,33979000000.0
+Sabah,level,2017-01-01,83793000000.0
+Sarawak,level,2017-01-01,130169000000.0
+W.P. Kuala Lumpur,level,2017-01-01,206175000000.0
+W.P. Labuan,level,2017-01-01,6790000000.0
+Supra,level,2017-01-01,46512000000.0
+Johor,contribution,2017-01-01,9.5
+Kedah,contribution,2017-01-01,3.3
+Kelantan,contribution,2017-01-01,1.8
+Melaka,contribution,2017-01-01,3.1
+Negeri Sembilan,contribution,2017-01-01,3.4
+Pahang,contribution,2017-01-01,4.2
+Pulau Pinang,contribution,2017-01-01,6.7
+Perak,contribution,2017-01-01,5.3
+Perlis,contribution,2017-01-01,0.4
+Selangor,contribution,2017-01-01,23.2
+Terengganu,contribution,2017-01-01,2.6
+Sabah,contribution,2017-01-01,6.4
+Sarawak,contribution,2017-01-01,10.0
+W.P. Kuala Lumpur,contribution,2017-01-01,15.9
+W.P. Labuan,contribution,2017-01-01,0.5
+Supra,contribution,2017-01-01,3.6
+Johor,growth,2017-01-01,5.9
+Kedah,growth,2017-01-01,4.6
+Kelantan,growth,2017-01-01,4.6
+Melaka,growth,2017-01-01,8.3
+Negeri Sembilan,growth,2017-01-01,4.9
+Pahang,growth,2017-01-01,7.3
+Pulau Pinang,growth,2017-01-01,5.2
+Perak,growth,2017-01-01,5.1
+Perlis,growth,2017-01-01,2.2
+Selangor,growth,2017-01-01,7.2
+Terengganu,growth,2017-01-01,5.7
+Sabah,growth,2017-01-01,8.1
+Sarawak,growth,2017-01-01,4.5
+W.P. Kuala Lumpur,growth,2017-01-01,7.6
+W.P. Labuan,growth,2017-01-01,5.9
+Supra,growth,2017-01-01,-8.0
+Johor,level,2018-01-01,130586000000.0
+Kedah,level,2018-01-01,44804000000.0
+Kelantan,level,2018-01-01,24143000000.0
+Melaka,level,2018-01-01,42376000000.0
+Negeri Sembilan,level,2018-01-01,45694000000.0
+Pahang,level,2018-01-01,56290000000.0
+Pulau Pinang,level,2018-01-01,91234000000.0
+Perak,level,2018-01-01,73031000000.0
+Perlis,level,2018-01-01,5885000000.0
+Selangor,level,2018-01-01,323215000000.0
+Terengganu,level,2018-01-01,34838000000.0
+Sabah,level,2018-01-01,85012000000.0
+Sarawak,level,2018-01-01,133010000000.0
+W.P. Kuala Lumpur,level,2018-01-01,220359000000.0
+W.P. Labuan,level,2018-01-01,7245000000.0
+Supra,level,2018-01-01,46044000000.0
+Johor,contribution,2018-01-01,9.6
+Kedah,contribution,2018-01-01,3.3
+Kelantan,contribution,2018-01-01,1.8
+Melaka,contribution,2018-01-01,3.1
+Negeri Sembilan,contribution,2018-01-01,3.4
+Pahang,contribution,2018-01-01,4.1
+Pulau Pinang,contribution,2018-01-01,6.7
+Perak,contribution,2018-01-01,5.4
+Perlis,contribution,2018-01-01,0.4
+Selangor,contribution,2018-01-01,23.7
+Terengganu,contribution,2018-01-01,2.6
+Sabah,contribution,2018-01-01,6.2
+Sarawak,contribution,2018-01-01,9.8
+W.P. Kuala Lumpur,contribution,2018-01-01,16.2
+W.P. Labuan,contribution,2018-01-01,0.5
+Supra,contribution,2018-01-01,3.4
+Johor,growth,2018-01-01,5.7
+Kedah,growth,2018-01-01,4.0
+Kelantan,growth,2018-01-01,2.7
+Melaka,growth,2018-01-01,3.8
+Negeri Sembilan,growth,2018-01-01,4.3
+Pahang,growth,2018-01-01,3.1
+Pulau Pinang,growth,2018-01-01,5.1
+Perak,growth,2018-01-01,5.3
+Perlis,growth,2018-01-01,3.3
+Selangor,growth,2018-01-01,7.0
+Terengganu,growth,2018-01-01,2.5
+Sabah,growth,2018-01-01,1.5
+Sarawak,growth,2018-01-01,2.2
+W.P. Kuala Lumpur,growth,2018-01-01,6.9
+W.P. Labuan,growth,2018-01-01,6.7
+Supra,growth,2018-01-01,-1.0
+Johor,level,2019-01-01,134226000000.0
+Kedah,level,2019-01-01,46841000000.0
+Kelantan,level,2019-01-01,25479000000.0
+Melaka,level,2019-01-01,43583000000.0
+Negeri Sembilan,level,2019-01-01,48034000000.0
+Pahang,level,2019-01-01,58434000000.0
+Pulau Pinang,level,2019-01-01,94645000000.0
+Perak,level,2019-01-01,75993000000.0
+Perlis,level,2019-01-01,6151000000.0
+Selangor,level,2019-01-01,345008000000.0
+Terengganu,level,2019-01-01,36001000000.0
+Sabah,level,2019-01-01,85642000000.0
+Sarawak,level,2019-01-01,136759000000.0
+W.P. Kuala Lumpur,level,2019-01-01,233794000000.0
+W.P. Labuan,level,2019-01-01,7623000000.0
+Supra,level,2019-01-01,45738000000.0
+Johor,contribution,2019-01-01,9.4
+Kedah,contribution,2019-01-01,3.3
+Kelantan,contribution,2019-01-01,1.8
+Melaka,contribution,2019-01-01,3.1
+Negeri Sembilan,contribution,2019-01-01,3.4
+Pahang,contribution,2019-01-01,4.1
+Pulau Pinang,contribution,2019-01-01,6.6
+Perak,contribution,2019-01-01,5.3
+Perlis,contribution,2019-01-01,0.4
+Selangor,contribution,2019-01-01,24.2
+Terengganu,contribution,2019-01-01,2.5
+Sabah,contribution,2019-01-01,6.0
+Sarawak,contribution,2019-01-01,9.6
+W.P. Kuala Lumpur,contribution,2019-01-01,16.4
+W.P. Labuan,contribution,2019-01-01,0.5
+Supra,contribution,2019-01-01,3.2
+Johor,growth,2019-01-01,2.8
+Kedah,growth,2019-01-01,4.5
+Kelantan,growth,2019-01-01,5.5
+Melaka,growth,2019-01-01,2.9
+Negeri Sembilan,growth,2019-01-01,5.1
+Pahang,growth,2019-01-01,3.8
+Pulau Pinang,growth,2019-01-01,3.7
+Perak,growth,2019-01-01,4.1
+Perlis,growth,2019-01-01,4.5
+Selangor,growth,2019-01-01,6.7
+Terengganu,growth,2019-01-01,3.3
+Sabah,growth,2019-01-01,0.7
+Sarawak,growth,2019-01-01,2.8
+W.P. Kuala Lumpur,growth,2019-01-01,6.1
+W.P. Labuan,growth,2019-01-01,5.2
+Supra,growth,2019-01-01,-0.7
+Johor,level,2020-01-01,127970000000.0
+Kedah,level,2020-01-01,46013000000.0
+Kelantan,level,2020-01-01,25181000000.0
+Melaka,level,2020-01-01,41010000000.0
+Negeri Sembilan,level,2020-01-01,46301000000.0
+Pahang,level,2020-01-01,54860000000.0
+Pulau Pinang,level,2020-01-01,92656000000.0
+Perak,level,2020-01-01,74199000000.0
+Perlis,level,2020-01-01,5779000000.0
+Selangor,level,2020-01-01,327088000000.0
+Terengganu,level,2020-01-01,33941000000.0
+Sabah,level,2020-01-01,77785000000.0
+Sarawak,level,2020-01-01,127509000000.0
+W.P. Kuala Lumpur,level,2020-01-01,216561000000.0
+W.P. Labuan,level,2020-01-01,7592000000.0
+Supra,level,2020-01-01,40698000000.0
+Johor,contribution,2020-01-01,9.5
+Kedah,contribution,2020-01-01,3.4
+Kelantan,contribution,2020-01-01,1.9
+Melaka,contribution,2020-01-01,3.0
+Negeri Sembilan,contribution,2020-01-01,3.4
+Pahang,contribution,2020-01-01,4.1
+Pulau Pinang,contribution,2020-01-01,6.9
+Perak,contribution,2020-01-01,5.5
+Perlis,contribution,2020-01-01,0.4
+Selangor,contribution,2020-01-01,24.3
+Terengganu,contribution,2020-01-01,2.5
+Sabah,contribution,2020-01-01,5.8
+Sarawak,contribution,2020-01-01,9.5
+W.P. Kuala Lumpur,contribution,2020-01-01,16.1
+W.P. Labuan,contribution,2020-01-01,0.6
+Supra,contribution,2020-01-01,3.0
+Johor,growth,2020-01-01,-4.7
+Kedah,growth,2020-01-01,-1.8
+Kelantan,growth,2020-01-01,-1.2
+Melaka,growth,2020-01-01,-5.9
+Negeri Sembilan,growth,2020-01-01,-3.6
+Pahang,growth,2020-01-01,-6.1
+Pulau Pinang,growth,2020-01-01,-2.1
+Perak,growth,2020-01-01,-2.4
+Perlis,growth,2020-01-01,-6.0
+Selangor,growth,2020-01-01,-5.2
+Terengganu,growth,2020-01-01,-5.7
+Sabah,growth,2020-01-01,-9.2
+Sarawak,growth,2020-01-01,-6.8
+W.P. Kuala Lumpur,growth,2020-01-01,-7.4
+W.P. Labuan,growth,2020-01-01,-0.4
+Supra,growth,2020-01-01,-11.0
+Johor,level,2021-01-01,131056000000.0
+Kedah,level,2021-01-01,47471000000.0
+Kelantan,level,2021-01-01,25774000000.0
+Melaka,level,2021-01-01,41814000000.0
+Negeri Sembilan,level,2021-01-01,47696000000.0
+Pahang,level,2021-01-01,55354000000.0
+Pulau Pinang,level,2021-01-01,98964000000.0
+Perak,level,2021-01-01,76780000000.0
+Perlis,level,2021-01-01,5866000000.0
+Selangor,level,2021-01-01,343501000000.0
+Terengganu,level,2021-01-01,35152000000.0
+Sabah,level,2021-01-01,78670000000.0
+Sarawak,level,2021-01-01,131175000000.0
+W.P. Kuala Lumpur,level,2021-01-01,218233000000.0
+W.P. Labuan,level,2021-01-01,7629000000.0
+Supra,level,2021-01-01,41603000000.0
+Johor,contribution,2021-01-01,9.5
+Kedah,contribution,2021-01-01,3.4
+Kelantan,contribution,2021-01-01,1.9
+Melaka,contribution,2021-01-01,3.0
+Negeri Sembilan,contribution,2021-01-01,3.4
+Pahang,contribution,2021-01-01,4.0
+Pulau Pinang,contribution,2021-01-01,7.1
+Perak,contribution,2021-01-01,5.5
+Perlis,contribution,2021-01-01,0.4
+Selangor,contribution,2021-01-01,24.8
+Terengganu,contribution,2021-01-01,2.5
+Sabah,contribution,2021-01-01,5.7
+Sarawak,contribution,2021-01-01,9.5
+W.P. Kuala Lumpur,contribution,2021-01-01,15.7
+W.P. Labuan,contribution,2021-01-01,0.6
+Supra,contribution,2021-01-01,3.0
+Johor,growth,2021-01-01,2.4
+Kedah,growth,2021-01-01,3.2
+Kelantan,growth,2021-01-01,2.4
+Melaka,growth,2021-01-01,2.0
+Negeri Sembilan,growth,2021-01-01,3.0
+Pahang,growth,2021-01-01,0.9
+Pulau Pinang,growth,2021-01-01,6.8
+Perak,growth,2021-01-01,3.5
+Perlis,growth,2021-01-01,1.5
+Selangor,growth,2021-01-01,5.0
+Terengganu,growth,2021-01-01,3.6
+Sabah,growth,2021-01-01,1.1
+Sarawak,growth,2021-01-01,2.9
+W.P. Kuala Lumpur,growth,2021-01-01,0.8
+W.P. Labuan,growth,2021-01-01,0.5
+Supra,growth,2021-01-01,2.2

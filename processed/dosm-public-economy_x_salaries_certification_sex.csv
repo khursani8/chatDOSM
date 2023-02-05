@@ -1,0 +1,217 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+overall,Overall,Keseluruhan,overall,2010,1936.0,1500.0,7149200
+overall,Overall,Keseluruhan,overall,2011,1959.0,1500.0,7634000
+overall,Overall,Keseluruhan,overall,2012,2052.0,1566.0,7782900
+overall,Overall,Keseluruhan,overall,2013,2186.0,1700.0,7903100
+overall,Overall,Keseluruhan,overall,2014,2377.0,1800.0,8392400
+overall,Overall,Keseluruhan,overall,2015,2487.0,1942.0,8348600
+overall,Overall,Keseluruhan,overall,2016,2657.0,2000.0,8424100
+overall,Overall,Keseluruhan,overall,2017,2879.0,2160.0,8677100
+overall,Overall,Keseluruhan,overall,2018,3087.0,2308.0,8761200
+overall,Overall,Keseluruhan,overall,2019,3224.0,2442.0,9195200
+overall,Overall,Keseluruhan,overall,2020,2933.0,2062.0,9390700
+overall,Overall,Keseluruhan,overall,2021,3036.9,2250.0,9711900
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2010,963.0,800.0,403100
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2011,957.0,800.0,354500
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2012,1010.0,840.0,355400
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2013,1037.0,900.0,286600
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2014,1157.0,1000.0,283500
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2015,1182.0,980.0,257500
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2016,1267.0,1020.0,228400
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2017,1476.0,1200.0,195100
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2018,1587.0,1351.0,193100
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2019,1760.0,1449.0,194600
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2020,1448.0,1237.0,135100
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,overall,2021,1494.4,1332.0,147700
+cert_1,SPM and below,SPM dan ke bawah,overall,2010,1455.0,1200.0,4497700
+cert_1,SPM and below,SPM dan ke bawah,overall,2011,1481.0,1200.0,4888100
+cert_1,SPM and below,SPM dan ke bawah,overall,2012,1532.0,1300.0,4899800
+cert_1,SPM and below,SPM dan ke bawah,overall,2013,1650.0,1400.0,5018400
+cert_1,SPM and below,SPM dan ke bawah,overall,2014,1743.0,1500.0,5200800
+cert_1,SPM and below,SPM dan ke bawah,overall,2015,1786.0,1500.0,5052600
+cert_1,SPM and below,SPM dan ke bawah,overall,2016,1891.0,1630.0,5084300
+cert_1,SPM and below,SPM dan ke bawah,overall,2017,2031.0,1700.0,5232200
+cert_1,SPM and below,SPM dan ke bawah,overall,2018,2193.0,1829.0,5214100
+cert_1,SPM and below,SPM dan ke bawah,overall,2019,2347.0,1912.0,5455100
+cert_1,SPM and below,SPM dan ke bawah,overall,2020,2094.0,1615.0,5463000
+cert_1,SPM and below,SPM dan ke bawah,overall,2021,2152.3,1787.0,5472100
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2010,1972.0,1600.0,487200
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2011,1951.0,1647.0,515600
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2012,2004.0,1690.0,515900
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2013,2144.0,1800.0,516600
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2014,2300.0,2000.0,556400
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2015,2378.0,2000.0,569600
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2016,2509.0,2200.0,554900
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2017,2687.0,2250.0,571400
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2018,2766.0,2392.0,584700
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2019,2924.0,2488.0,599200
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2020,2667.0,2152.0,708600
+cert_2,STPM/Certificate ,STPM/Sijil,overall,2021,2627.6,2286.0,672900
+cert_3,Diploma,Diploma,overall,2010,2637.0,2346.0,811900
+cert_3,Diploma,Diploma,overall,2011,2648.0,2400.0,883300
+cert_3,Diploma,Diploma,overall,2012,2737.0,2500.0,905900
+cert_3,Diploma,Diploma,overall,2013,2825.0,2500.0,993700
+cert_3,Diploma,Diploma,overall,2014,2968.0,2630.0,1046700
+cert_3,Diploma,Diploma,overall,2015,3088.0,2800.0,1126300
+cert_3,Diploma,Diploma,overall,2016,3235.0,2950.0,1108900
+cert_3,Diploma,Diploma,overall,2017,3423.0,3000.0,1131500
+cert_3,Diploma,Diploma,overall,2018,3657.0,3032.0,1171400
+cert_3,Diploma,Diploma,overall,2019,3756.0,3232.0,1233900
+cert_3,Diploma,Diploma,overall,2020,3353.0,2924.0,1332500
+cert_3,Diploma,Diploma,overall,2021,3356.3,3094.0,1448400
+cert_4,Degree,Ijazah,overall,2010,4008.0,3385.0,949400
+cert_4,Degree,Ijazah,overall,2011,4061.0,3500.0,992400
+cert_4,Degree,Ijazah,overall,2012,4150.0,3500.0,1105800
+cert_4,Degree,Ijazah,overall,2013,4393.0,3850.0,1087700
+cert_4,Degree,Ijazah,overall,2014,4730.0,4000.0,1305000
+cert_4,Degree,Ijazah,overall,2015,4918.0,4300.0,1342700
+cert_4,Degree,Ijazah,overall,2016,5180.0,4800.0,1447500
+cert_4,Degree,Ijazah,overall,2017,5599.0,4890.0,1546900
+cert_4,Degree,Ijazah,overall,2018,5883.0,5030.0,1597900
+cert_4,Degree,Ijazah,overall,2019,5903.0,5496.0,1712400
+cert_4,Degree,Ijazah,overall,2020,5450.0,4866.0,1751400
+cert_4,Degree,Ijazah,overall,2021,5513.9,5221.0,1970800
+overall,Overall,Keseluruhan,male,2010,2003.0,1500.0,4432600
+overall,Overall,Keseluruhan,male,2011,2035.0,1500.0,4680100
+overall,Overall,Keseluruhan,male,2012,2126.0,1600.0,4745000
+overall,Overall,Keseluruhan,male,2013,2259.0,1800.0,4784200
+overall,Overall,Keseluruhan,male,2014,2455.0,1888.0,5070700
+overall,Overall,Keseluruhan,male,2015,2558.0,2000.0,5049400
+overall,Overall,Keseluruhan,male,2016,2741.0,2000.0,5034400
+overall,Overall,Keseluruhan,male,2017,2953.0,2170.0,5151200
+overall,Overall,Keseluruhan,male,2018,3174.0,2342.0,5209800
+overall,Overall,Keseluruhan,male,2019,3304.0,2477.0,5435900
+overall,Overall,Keseluruhan,male,2020,2963.0,2093.0,5551000
+overall,Overall,Keseluruhan,male,2021,3084.7,2315.0,5733900
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2010,1074.0,900.0,288200
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2011,1078.0,912.0,245800
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2012,1136.0,1000.0,248400
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2013,1154.0,1000.0,194900
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2014,1308.0,1150.0,193800
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2015,1343.0,1100.0,175600
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2016,1424.0,1200.0,152600
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2017,1605.0,1355.0,131500
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2018,1739.0,1573.0,134000
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2019,1923.0,1600.0,133500
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2020,1527.0,1291.0,89000
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,male,2021,1545.5,1392.0,107400
+cert_1,SPM and below,SPM dan ke bawah,male,2010,1553.0,1300.0,2997700
+cert_1,SPM and below,SPM dan ke bawah,male,2011,1588.0,1360.0,3245100
+cert_1,SPM and below,SPM dan ke bawah,male,2012,1645.0,1440.0,3246500
+cert_1,SPM and below,SPM dan ke bawah,male,2013,1778.0,1500.0,3307400
+cert_1,SPM and below,SPM dan ke bawah,male,2014,1884.0,1500.0,3437700
+cert_1,SPM and below,SPM dan ke bawah,male,2015,1919.0,1600.0,3374100
+cert_1,SPM and below,SPM dan ke bawah,male,2016,2045.0,1703.0,3386700
+cert_1,SPM and below,SPM dan ke bawah,male,2017,2159.0,1800.0,3447900
+cert_1,SPM and below,SPM dan ke bawah,male,2018,2359.0,1980.0,3447500
+cert_1,SPM and below,SPM dan ke bawah,male,2019,2512.0,2100.0,3573700
+cert_1,SPM and below,SPM dan ke bawah,male,2020,2210.0,1722.0,3563700
+cert_1,SPM and below,SPM dan ke bawah,male,2021,2247.4,1857.0,3536800
+cert_2,STPM/Certificate ,STPM/Sijil,male,2010,2120.0,1740.0,272900
+cert_2,STPM/Certificate ,STPM/Sijil,male,2011,2143.0,1800.0,287800
+cert_2,STPM/Certificate ,STPM/Sijil,male,2012,2202.0,1875.0,288900
+cert_2,STPM/Certificate ,STPM/Sijil,male,2013,2351.0,2000.0,291600
+cert_2,STPM/Certificate ,STPM/Sijil,male,2014,2490.0,2045.0,336300
+cert_2,STPM/Certificate ,STPM/Sijil,male,2015,2631.0,2170.0,325300
+cert_2,STPM/Certificate ,STPM/Sijil,male,2016,2775.0,2324.0,319700
+cert_2,STPM/Certificate ,STPM/Sijil,male,2017,2977.0,2375.0,338800
+cert_2,STPM/Certificate ,STPM/Sijil,male,2018,3031.0,2498.0,350300
+cert_2,STPM/Certificate ,STPM/Sijil,male,2019,3173.0,2620.0,356300
+cert_2,STPM/Certificate ,STPM/Sijil,male,2020,2821.0,2371.0,438000
+cert_2,STPM/Certificate ,STPM/Sijil,male,2021,2732.2,2349.0,461600
+cert_3,Diploma,Diploma,male,2010,2913.0,2500.0,402600
+cert_3,Diploma,Diploma,male,2011,2947.0,2500.0,413800
+cert_3,Diploma,Diploma,male,2012,2970.0,2560.0,434400
+cert_3,Diploma,Diploma,male,2013,3055.0,2700.0,484300
+cert_3,Diploma,Diploma,male,2014,3244.0,2831.0,511300
+cert_3,Diploma,Diploma,male,2015,3346.0,2953.0,553800
+cert_3,Diploma,Diploma,male,2016,3610.0,3050.0,540000
+cert_3,Diploma,Diploma,male,2017,3877.0,3100.0,538800
+cert_3,Diploma,Diploma,male,2018,4017.0,3204.0,578200
+cert_3,Diploma,Diploma,male,2019,4126.0,3450.0,601400
+cert_3,Diploma,Diploma,male,2020,3500.0,3008.0,680900
+cert_3,Diploma,Diploma,male,2021,3504.4,3147.0,628100
+cert_4,Degree,Ijazah,male,2010,4588.0,3850.0,471200
+cert_4,Degree,Ijazah,male,2011,4655.0,3895.0,487500
+cert_4,Degree,Ijazah,male,2012,4827.0,3960.0,526300
+cert_4,Degree,Ijazah,male,2013,5015.0,4250.0,506100
+cert_4,Degree,Ijazah,male,2014,5442.0,4600.0,591600
+cert_4,Degree,Ijazah,male,2015,5633.0,4839.0,620400
+cert_4,Degree,Ijazah,male,2016,6012.0,5000.0,635200
+cert_4,Degree,Ijazah,male,2017,6425.0,5000.0,694300
+cert_4,Degree,Ijazah,male,2018,6838.0,5714.0,699900
+cert_4,Degree,Ijazah,male,2019,6630.0,6250.0,771000
+cert_4,Degree,Ijazah,male,2020,6181.0,5423.0,779500
+cert_4,Degree,Ijazah,male,2021,6110.4,5747.0,1000000
+overall,Overall,Keseluruhan,female,2010,1825.0,1498.0,2716600
+overall,Overall,Keseluruhan,female,2011,1838.0,1467.0,2953900
+overall,Overall,Keseluruhan,female,2012,1935.0,1500.0,3037900
+overall,Overall,Keseluruhan,female,2013,2072.0,1600.0,3118900
+overall,Overall,Keseluruhan,female,2014,2259.0,1700.0,3321800
+overall,Overall,Keseluruhan,female,2015,2380.0,1855.0,3299200
+overall,Overall,Keseluruhan,female,2016,2532.0,2000.0,3389700
+overall,Overall,Keseluruhan,female,2017,2772.0,2145.0,3525900
+overall,Overall,Keseluruhan,female,2018,2959.0,2227.0,3551400
+overall,Overall,Keseluruhan,female,2019,3108.0,2370.0,3759300
+overall,Overall,Keseluruhan,female,2020,2889.0,2019.0,3839600
+overall,Overall,Keseluruhan,female,2021,2968.1,2145.0,3978000
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2010,684.0,600.0,114900
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2011,684.0,600.0,108700
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2012,716.0,620.0,106600
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2013,788.0,700.0,91800
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2014,832.0,800.0,89700
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2015,837.0,850.0,81800
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2016,950.0,900.0,75800
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2017,1211.0,1000.0,63600
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2018,1241.0,1089.0,59100
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2019,1403.0,1205.0,61000
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2020,1295.0,1128.0,46100
+cert_0,No certificate/Not applicable,Tiada sijil/Tidak Berkenaan,female,2021,1358.3,1240.0,40300
+cert_1,SPM and below,SPM dan ke bawah,female,2010,1258.0,1035.0,1500000
+cert_1,SPM and below,SPM dan ke bawah,female,2011,1269.0,1030.0,1643000
+cert_1,SPM and below,SPM dan ke bawah,female,2012,1310.0,1100.0,1653300
+cert_1,SPM and below,SPM dan ke bawah,female,2013,1403.0,1200.0,1711000
+cert_1,SPM and below,SPM dan ke bawah,female,2014,1467.0,1200.0,1763100
+cert_1,SPM and below,SPM dan ke bawah,female,2015,1520.0,1200.0,1678500
+cert_1,SPM and below,SPM dan ke bawah,female,2016,1584.0,1300.0,1697600
+cert_1,SPM and below,SPM dan ke bawah,female,2017,1784.0,1500.0,1784300
+cert_1,SPM and below,SPM dan ke bawah,female,2018,1869.0,1567.0,1766600
+cert_1,SPM and below,SPM dan ke bawah,female,2019,2034.0,1689.0,1881400
+cert_1,SPM and below,SPM dan ke bawah,female,2020,1878.0,1483.0,1899300
+cert_1,SPM and below,SPM dan ke bawah,female,2021,1978.5,1654.0,1935300
+cert_2,STPM/Certificate ,STPM/Sijil,female,2010,1783.0,1500.0,214200
+cert_2,STPM/Certificate ,STPM/Sijil,female,2011,1708.0,1486.0,227800
+cert_2,STPM/Certificate ,STPM/Sijil,female,2012,1752.0,1500.0,227000
+cert_2,STPM/Certificate ,STPM/Sijil,female,2013,1875.0,1596.0,225000
+cert_2,STPM/Certificate ,STPM/Sijil,female,2014,2011.0,1745.0,220100
+cert_2,STPM/Certificate ,STPM/Sijil,female,2015,2040.0,1822.0,244300
+cert_2,STPM/Certificate ,STPM/Sijil,female,2016,2146.0,1845.0,235200
+cert_2,STPM/Certificate ,STPM/Sijil,female,2017,2265.0,2145.0,232700
+cert_2,STPM/Certificate ,STPM/Sijil,female,2018,2370.0,2125.0,234400
+cert_2,STPM/Certificate ,STPM/Sijil,female,2019,2558.0,2261.0,242900
+cert_2,STPM/Certificate ,STPM/Sijil,female,2020,2418.0,1918.0,270600
+cert_2,STPM/Certificate ,STPM/Sijil,female,2021,2399.2,2104.0,211300
+cert_3,Diploma,Diploma,female,2010,2366.0,2200.0,409300
+cert_3,Diploma,Diploma,female,2011,2385.0,2243.0,469500
+cert_3,Diploma,Diploma,female,2012,2522.0,2343.0,471500
+cert_3,Diploma,Diploma,female,2013,2607.0,2440.0,509400
+cert_3,Diploma,Diploma,female,2014,2705.0,2500.0,535400
+cert_3,Diploma,Diploma,female,2015,2838.0,2600.0,572400
+cert_3,Diploma,Diploma,female,2016,2880.0,2640.0,568900
+cert_3,Diploma,Diploma,female,2017,3009.0,2683.0,592700
+cert_3,Diploma,Diploma,female,2018,3305.0,2886.0,593300
+cert_3,Diploma,Diploma,female,2019,3404.0,2997.0,632500
+cert_3,Diploma,Diploma,female,2020,3200.0,2826.0,651600
+cert_3,Diploma,Diploma,female,2021,3242.9,3044.0,820300
+cert_4,Degree,Ijazah,female,2010,3436.0,3021.0,478200
+cert_4,Degree,Ijazah,female,2011,3487.0,3050.0,504900
+cert_4,Degree,Ijazah,female,2012,3534.0,3140.0,579500
+cert_4,Degree,Ijazah,female,2013,3852.0,3500.0,581600
+cert_4,Degree,Ijazah,female,2014,4140.0,3800.0,713400
+cert_4,Degree,Ijazah,female,2015,4304.0,4000.0,722200
+cert_4,Degree,Ijazah,female,2016,4529.0,4250.0,812300
+cert_4,Degree,Ijazah,female,2017,4927.0,4430.0,852700
+cert_4,Degree,Ijazah,female,2018,5139.0,4598.0,898100
+cert_4,Degree,Ijazah,female,2019,5308.0,4931.0,941400
+cert_4,Degree,Ijazah,female,2020,4863.0,4542.0,971900
+cert_4,Degree,Ijazah,female,2021,4899.4,4755.0,970800

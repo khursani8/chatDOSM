@@ -1,0 +1,145 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2010,759.0,621.0,78400
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2011,735.0,600.0,68500
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2012,835.0,750.0,85000
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2013,876.0,800.0,62900
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2014,950.0,850.0,58000
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2015,979.0,900.0,73600
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2016,1192.0,960.0,63900
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2017,1410.0,1100.0,54400
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2018,1481.0,1166.0,55700
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2019,1608.0,1436.0,57800
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2020,1447.0,1237.0,59900
+educ_0,No formal education,Tiada pendidikan rasmi,overall,2021,1454.4,1315.0,51600
+educ_1,Primary,Rendah,overall,2010,1069.0,890.0,643800
+educ_1,Primary,Rendah,overall,2011,1096.0,900.0,649100
+educ_1,Primary,Rendah,overall,2012,1137.0,980.0,660300
+educ_1,Primary,Rendah,overall,2013,1205.0,1000.0,580500
+educ_1,Primary,Rendah,overall,2014,1327.0,1100.0,618300
+educ_1,Primary,Rendah,overall,2015,1381.0,1110.0,572300
+educ_1,Primary,Rendah,overall,2016,1451.0,1206.0,531600
+educ_1,Primary,Rendah,overall,2017,1649.0,1400.0,491600
+educ_1,Primary,Rendah,overall,2018,1821.0,1518.0,493500
+educ_1,Primary,Rendah,overall,2019,1929.0,1560.0,470300
+educ_1,Primary,Rendah,overall,2020,1556.0,1274.0,374300
+educ_1,Primary,Rendah,overall,2021,1583.9,1448.0,270300
+educ_2,Secondary,Menengah,overall,2010,1480.0,1250.0,4147500
+educ_2,Secondary,Menengah,overall,2011,1506.0,1290.0,4505000
+educ_2,Secondary,Menengah,overall,2012,1562.0,1300.0,4484200
+educ_2,Secondary,Menengah,overall,2013,1680.0,1491.0,4641900
+educ_2,Secondary,Menengah,overall,2014,1772.0,1500.0,4791500
+educ_2,Secondary,Menengah,overall,2015,1817.0,1500.0,4640300
+educ_2,Secondary,Menengah,overall,2016,1921.0,1650.0,4703300
+educ_2,Secondary,Menengah,overall,2017,2055.0,1750.0,4867600
+educ_2,Secondary,Menengah,overall,2018,2215.0,1850.0,4844500
+educ_2,Secondary,Menengah,overall,2019,2372.0,1955.0,5107300
+educ_2,Secondary,Menengah,overall,2020,2125.0,1630.0,5126400
+educ_2,Secondary,Menengah,overall,2021,2169.2,1797.0,5224000
+educ_3,Tertiary,Tertiari,overall,2010,3050.0,2550.0,2279500
+educ_3,Tertiary,Tertiari,overall,2011,3070.0,2650.0,2411500
+educ_3,Tertiary,Tertiari,overall,2012,3189.0,2743.0,2553400
+educ_3,Tertiary,Tertiari,overall,2013,3331.0,2945.0,2617800
+educ_3,Tertiary,Tertiari,overall,2014,3619.0,3000.0,2924600
+educ_3,Tertiary,Tertiari,overall,2015,3746.0,3090.0,3062300
+educ_3,Tertiary,Tertiari,overall,2016,4000.0,3300.0,3125200
+educ_3,Tertiary,Tertiari,overall,2017,4320.0,3400.0,3263500
+educ_3,Tertiary,Tertiari,overall,2018,4553.0,3648.0,3367600
+educ_3,Tertiary,Tertiari,overall,2019,4643.0,3901.0,3559800
+educ_3,Tertiary,Tertiari,overall,2020,4171.0,3499.0,3830100
+educ_3,Tertiary,Tertiari,overall,2021,4238.8,3794.0,4166100
+educ_0,No formal education,Tiada pendidikan rasmi,male,2010,892.0,800.0,46300
+educ_0,No formal education,Tiada pendidikan rasmi,male,2011,887.0,800.0,35600
+educ_0,No formal education,Tiada pendidikan rasmi,male,2012,963.0,900.0,53000
+educ_0,No formal education,Tiada pendidikan rasmi,male,2013,948.0,850.0,39400
+educ_0,No formal education,Tiada pendidikan rasmi,male,2014,1083.0,1000.0,33900
+educ_0,No formal education,Tiada pendidikan rasmi,male,2015,1106.0,970.0,45100
+educ_0,No formal education,Tiada pendidikan rasmi,male,2016,1408.0,1150.0,37900
+educ_0,No formal education,Tiada pendidikan rasmi,male,2017,1601.0,1200.0,32500
+educ_0,No formal education,Tiada pendidikan rasmi,male,2018,1682.0,1539.0,34600
+educ_0,No formal education,Tiada pendidikan rasmi,male,2019,1785.0,1600.0,36600
+educ_0,No formal education,Tiada pendidikan rasmi,male,2020,1540.0,1246.0,38600
+educ_0,No formal education,Tiada pendidikan rasmi,male,2021,1523.3,1384.0,37000
+educ_1,Primary,Rendah,male,2010,1169.0,1000.0,486400
+educ_1,Primary,Rendah,male,2011,1209.0,1000.0,485000
+educ_1,Primary,Rendah,male,2012,1261.0,1100.0,488000
+educ_1,Primary,Rendah,male,2013,1343.0,1120.0,414900
+educ_1,Primary,Rendah,male,2014,1471.0,1200.0,441100
+educ_1,Primary,Rendah,male,2015,1519.0,1298.0,424400
+educ_1,Primary,Rendah,male,2016,1589.0,1400.0,386400
+educ_1,Primary,Rendah,male,2017,1758.0,1500.0,356300
+educ_1,Primary,Rendah,male,2018,1986.0,1680.0,359800
+educ_1,Primary,Rendah,male,2019,2076.0,1725.0,336100
+educ_1,Primary,Rendah,male,2020,1647.0,1340.0,259200
+educ_1,Primary,Rendah,male,2021,1631.7,1495.0,195200
+educ_2,Secondary,Menengah,male,2010,1582.0,1357.0,2740000
+educ_2,Secondary,Menengah,male,2011,1617.0,1400.0,2959000
+educ_2,Secondary,Menengah,male,2012,1678.0,1500.0,2940300
+educ_2,Secondary,Menengah,male,2013,1809.0,1500.0,3037200
+educ_2,Secondary,Menengah,male,2014,1916.0,1577.0,3148800
+educ_2,Secondary,Menengah,male,2015,1955.0,1600.0,3067700
+educ_2,Secondary,Menengah,male,2016,2079.0,1760.0,3109000
+educ_2,Secondary,Menengah,male,2017,2187.0,1850.0,3184300
+educ_2,Secondary,Menengah,male,2018,2382.0,2039.0,3179200
+educ_2,Secondary,Menengah,male,2019,2540.0,2147.0,3326600
+educ_2,Secondary,Menengah,male,2020,2244.0,1753.0,3332400
+educ_2,Secondary,Menengah,male,2021,2266.5,1865.0,3383000
+educ_3,Tertiary,Tertiari,male,2010,3392.0,2800.0,1159900
+educ_3,Tertiary,Tertiari,male,2011,3432.0,2940.0,1200500
+educ_3,Tertiary,Tertiari,male,2012,3553.0,3000.0,1263700
+educ_3,Tertiary,Tertiari,male,2013,3651.0,3000.0,1292600
+educ_3,Tertiary,Tertiari,male,2014,3959.0,3200.0,1446800
+educ_3,Tertiary,Tertiari,male,2015,4116.0,3395.0,1512300
+educ_3,Tertiary,Tertiari,male,2016,4442.0,3500.0,1501000
+educ_3,Tertiary,Tertiari,male,2017,4798.0,3550.0,1578200
+educ_3,Tertiary,Tertiari,male,2018,5006.0,3866.0,1636300
+educ_3,Tertiary,Tertiari,male,2019,5036.0,4227.0,1736600
+educ_3,Tertiary,Tertiari,male,2020,4416.0,3609.0,1920900
+educ_3,Tertiary,Tertiari,male,2021,4552.1,3945.0,2118800
+educ_0,No formal education,Tiada pendidikan rasmi,female,2010,568.0,500.0,32100
+educ_0,No formal education,Tiada pendidikan rasmi,female,2011,570.0,500.0,32900
+educ_0,No formal education,Tiada pendidikan rasmi,female,2012,621.0,550.0,32000
+educ_0,No formal education,Tiada pendidikan rasmi,female,2013,757.0,700.0,23500
+educ_0,No formal education,Tiada pendidikan rasmi,female,2014,761.0,700.0,24100
+educ_0,No formal education,Tiada pendidikan rasmi,female,2015,778.0,792.0,28500
+educ_0,No formal education,Tiada pendidikan rasmi,female,2016,877.0,900.0,26000
+educ_0,No formal education,Tiada pendidikan rasmi,female,2017,1128.0,900.0,21900
+educ_0,No formal education,Tiada pendidikan rasmi,female,2018,1154.0,1016.0,21200
+educ_0,No formal education,Tiada pendidikan rasmi,female,2019,1302.0,1150.0,21100
+educ_0,No formal education,Tiada pendidikan rasmi,female,2020,1281.0,1110.0,21300
+educ_0,No formal education,Tiada pendidikan rasmi,female,2021,1279.8,1163.0,14600
+educ_1,Primary,Rendah,female,2010,759.0,600.0,157400
+educ_1,Primary,Rendah,female,2011,764.0,700.0,164100
+educ_1,Primary,Rendah,female,2012,787.0,700.0,172300
+educ_1,Primary,Rendah,female,2013,857.0,775.0,165500
+educ_1,Primary,Rendah,female,2014,968.0,900.0,177200
+educ_1,Primary,Rendah,female,2015,985.0,900.0,148000
+educ_1,Primary,Rendah,female,2016,1084.0,900.0,145200
+educ_1,Primary,Rendah,female,2017,1361.0,1100.0,135300
+educ_1,Primary,Rendah,female,2018,1378.0,1182.0,133700
+educ_1,Primary,Rendah,female,2019,1564.0,1295.0,134200
+educ_1,Primary,Rendah,female,2020,1351.0,1211.0,115100
+educ_1,Primary,Rendah,female,2021,1459.6,1326.0,75100
+educ_2,Secondary,Menengah,female,2010,1281.0,1066.0,1407500
+educ_2,Secondary,Menengah,female,2011,1295.0,1100.0,1546000
+educ_2,Secondary,Menengah,female,2012,1341.0,1140.0,1543900
+educ_2,Secondary,Menengah,female,2013,1435.0,1200.0,1604600
+educ_2,Secondary,Menengah,female,2014,1496.0,1200.0,1642700
+educ_2,Secondary,Menengah,female,2015,1548.0,1250.0,1572700
+educ_2,Secondary,Menengah,female,2016,1612.0,1390.0,1594300
+educ_2,Secondary,Menengah,female,2017,1804.0,1550.0,1683300
+educ_2,Secondary,Menengah,female,2018,1897.0,1599.0,1665300
+educ_2,Secondary,Menengah,female,2019,2058.0,1711.0,1780700
+educ_2,Secondary,Menengah,female,2020,1904.0,1514.0,1794000
+educ_2,Secondary,Menengah,female,2021,1990.3,1661.0,1841000
+educ_3,Tertiary,Tertiari,female,2010,2696.0,2455.0,1119600
+educ_3,Tertiary,Tertiari,female,2011,2711.0,2500.0,1211000
+educ_3,Tertiary,Tertiari,female,2012,2831.0,2505.0,1289700
+educ_3,Tertiary,Tertiari,female,2013,3019.0,2743.0,1325100
+educ_3,Tertiary,Tertiari,female,2014,3287.0,3000.0,1477800
+educ_3,Tertiary,Tertiari,female,2015,3386.0,3000.0,1550000
+educ_3,Tertiary,Tertiari,female,2016,3591.0,3120.0,1624200
+educ_3,Tertiary,Tertiari,female,2017,3872.0,3150.0,1685400
+educ_3,Tertiary,Tertiari,female,2018,4124.0,3465.0,1731300
+educ_3,Tertiary,Tertiari,female,2019,4269.0,3570.0,1823200
+educ_3,Tertiary,Tertiari,female,2020,3925.0,3398.0,1909300
+educ_3,Tertiary,Tertiari,female,2021,3914.7,3607.0,2047300

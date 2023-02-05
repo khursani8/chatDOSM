@@ -1,0 +1,109 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+overall,Overall,Keseluruhan,overall,2010,1936.0,1500.0,7149200
+overall,Overall,Keseluruhan,overall,2011,1959.0,1500.0,7634000
+overall,Overall,Keseluruhan,overall,2012,2052.0,1566.0,7782900
+overall,Overall,Keseluruhan,overall,2013,2186.0,1700.0,7903100
+overall,Overall,Keseluruhan,overall,2014,2377.0,1800.0,8392400
+overall,Overall,Keseluruhan,overall,2015,2487.0,1942.0,8348600
+overall,Overall,Keseluruhan,overall,2016,2657.0,2000.0,8424100
+overall,Overall,Keseluruhan,overall,2017,2879.0,2160.0,8677100
+overall,Overall,Keseluruhan,overall,2018,3087.0,2308.0,8761200
+overall,Overall,Keseluruhan,overall,2019,3224.0,2442.0,9195200
+overall,Overall,Keseluruhan,overall,2020,2933.0,2062.0,9390700
+overall,Overall,Keseluruhan,overall,2021,3036.9,2250.0,9711900
+urban,Urban,Bandar,overall,2010,2077.0,1600.0,5450700
+urban,Urban,Bandar,overall,2011,2090.0,1600.0,5816700
+urban,Urban,Bandar,overall,2012,2204.0,1770.0,6029800
+urban,Urban,Bandar,overall,2013,2347.0,1850.0,6202400
+urban,Urban,Bandar,overall,2014,2517.0,2000.0,6937100
+urban,Urban,Bandar,overall,2015,2638.0,2000.0,6788000
+urban,Urban,Bandar,overall,2016,2812.0,2115.0,6964700
+urban,Urban,Bandar,overall,2017,3038.0,2260.0,7297900
+urban,Urban,Bandar,overall,2018,3274.0,2415.0,7382200
+urban,Urban,Bandar,overall,2019,3405.0,2565.0,7802800
+urban,Urban,Bandar,overall,2020,3089.0,2268.0,7929900
+urban,Urban,Bandar,overall,2021,3188.2,2438.0,8273900
+rural,Rural,Luar bandar,overall,2010,1481.0,1087.0,1698500
+rural,Rural,Luar bandar,overall,2011,1538.0,1130.0,1817300
+rural,Rural,Luar bandar,overall,2012,1527.0,1100.0,1753100
+rural,Rural,Luar bandar,overall,2013,1597.0,1150.0,1700700
+rural,Rural,Luar bandar,overall,2014,1710.0,1200.0,1455300
+rural,Rural,Luar bandar,overall,2015,1831.0,1300.0,1560600
+rural,Rural,Luar bandar,overall,2016,1916.0,1350.0,1459400
+rural,Rural,Luar bandar,overall,2017,2040.0,1400.0,1379200
+rural,Rural,Luar bandar,overall,2018,2083.0,1481.0,1379100
+rural,Rural,Luar bandar,overall,2019,2208.0,1560.0,1392400
+rural,Rural,Luar bandar,overall,2020,2086.0,1340.0,1460800
+rural,Rural,Luar bandar,overall,2021,2166.4,1520.0,1438000
+overall,Overall,Keseluruhan,male,2010,2003.0,1500.0,4432600
+overall,Overall,Keseluruhan,male,2011,2035.0,1500.0,4680100
+overall,Overall,Keseluruhan,male,2012,2126.0,1600.0,4745000
+overall,Overall,Keseluruhan,male,2013,2259.0,1800.0,4784200
+overall,Overall,Keseluruhan,male,2014,2455.0,1888.0,5070700
+overall,Overall,Keseluruhan,male,2015,2558.0,2000.0,5049400
+overall,Overall,Keseluruhan,male,2016,2741.0,2000.0,5034400
+overall,Overall,Keseluruhan,male,2017,2953.0,2170.0,5151200
+overall,Overall,Keseluruhan,male,2018,3174.0,2342.0,5209800
+overall,Overall,Keseluruhan,male,2019,3304.0,2477.0,5435900
+overall,Overall,Keseluruhan,male,2020,2963.0,2093.0,5551000
+overall,Overall,Keseluruhan,male,2021,3084.7,2315.0,5733900
+urban,Urban,Bandar,male,2010,2170.0,1695.0,3321500
+urban,Urban,Bandar,male,2011,2199.0,1700.0,3485100
+urban,Urban,Bandar,male,2012,2308.0,1800.0,3614300
+urban,Urban,Bandar,male,2013,2460.0,2000.0,3676600
+urban,Urban,Bandar,male,2014,2627.0,2000.0,4127100
+urban,Urban,Bandar,male,2015,2740.0,2100.0,4039100
+urban,Urban,Bandar,male,2016,2925.0,2200.0,4094800
+urban,Urban,Bandar,male,2017,3148.0,2300.0,4262100
+urban,Urban,Bandar,male,2018,3400.0,2464.0,4324900
+urban,Urban,Bandar,male,2019,3528.0,2712.0,4531000
+urban,Urban,Bandar,male,2020,3157.0,2366.0,4599300
+urban,Urban,Bandar,male,2021,3265.3,2522.0,4819800
+rural,Rural,Luar bandar,male,2010,1505.0,1102.0,1111100
+rural,Rural,Luar bandar,male,2011,1555.0,1200.0,1194900
+rural,Rural,Luar bandar,male,2012,1547.0,1200.0,1130700
+rural,Rural,Luar bandar,male,2013,1595.0,1200.0,1107600
+rural,Rural,Luar bandar,male,2014,1701.0,1200.0,943600
+rural,Rural,Luar bandar,male,2015,1829.0,1400.0,1010300
+rural,Rural,Luar bandar,male,2016,1937.0,1400.0,939600
+rural,Rural,Luar bandar,male,2017,2021.0,1500.0,889200
+rural,Rural,Luar bandar,male,2018,2070.0,1527.0,885000
+rural,Rural,Luar bandar,male,2019,2178.0,1575.0,904900
+rural,Rural,Luar bandar,male,2020,2026.0,1340.0,951700
+rural,Rural,Luar bandar,male,2021,2132.4,1542.0,914100
+overall,Overall,Keseluruhan,female,2010,1825.0,1498.0,2716600
+overall,Overall,Keseluruhan,female,2011,1838.0,1467.0,2953900
+overall,Overall,Keseluruhan,female,2012,1935.0,1500.0,3037900
+overall,Overall,Keseluruhan,female,2013,2072.0,1600.0,3118900
+overall,Overall,Keseluruhan,female,2014,2259.0,1700.0,3321800
+overall,Overall,Keseluruhan,female,2015,2380.0,1855.0,3299200
+overall,Overall,Keseluruhan,female,2016,2532.0,2000.0,3389700
+overall,Overall,Keseluruhan,female,2017,2772.0,2145.0,3525900
+overall,Overall,Keseluruhan,female,2018,2959.0,2227.0,3551400
+overall,Overall,Keseluruhan,female,2019,3108.0,2370.0,3759300
+overall,Overall,Keseluruhan,female,2020,2889.0,2019.0,3839600
+overall,Overall,Keseluruhan,female,2021,2968.1,2145.0,3978000
+urban,Urban,Bandar,female,2010,1933.0,1500.0,2129200
+urban,Urban,Bandar,female,2011,1926.0,1500.0,2331600
+urban,Urban,Bandar,female,2012,2049.0,1614.0,2415500
+urban,Urban,Bandar,female,2013,2183.0,1720.0,2525800
+urban,Urban,Bandar,female,2014,2356.0,1800.0,2810000
+urban,Urban,Bandar,female,2015,2489.0,2000.0,2748900
+urban,Urban,Bandar,female,2016,2651.0,2000.0,2869900
+urban,Urban,Bandar,female,2017,2884.0,2160.0,3035900
+urban,Urban,Bandar,female,2018,3096.0,2316.0,3057300
+urban,Urban,Bandar,female,2019,3234.0,2518.0,3271700
+urban,Urban,Bandar,female,2020,2994.0,2124.0,3330600
+urban,Urban,Bandar,female,2021,3080.7,2302.0,3454100
+rural,Rural,Luar bandar,female,2010,1436.0,1000.0,587400
+rural,Rural,Luar bandar,female,2011,1505.0,1000.0,622300
+rural,Rural,Luar bandar,female,2012,1491.0,1000.0,622400
+rural,Rural,Luar bandar,female,2013,1600.0,1000.0,593000
+rural,Rural,Luar bandar,female,2014,1726.0,1090.0,511700
+rural,Rural,Luar bandar,female,2015,1834.0,1200.0,550300
+rural,Rural,Luar bandar,female,2016,1877.0,1219.0,519799
+rural,Rural,Luar bandar,female,2017,2074.0,1300.0,490000
+rural,Rural,Luar bandar,female,2018,2106.0,1339.0,494100
+rural,Rural,Luar bandar,female,2019,2262.0,1473.0,487500
+rural,Rural,Luar bandar,female,2020,2198.0,1303.0,509100
+rural,Rural,Luar bandar,female,2021,2225.8,1480.0,523900

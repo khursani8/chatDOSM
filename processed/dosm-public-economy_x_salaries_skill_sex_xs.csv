@@ -1,0 +1,109 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+skill_3,Skilled,Mahir,overall,2010,3083.0,2600.0,2463500
+skill_3,Skilled,Mahir,overall,2011,3168.0,2760.0,2519100
+skill_3,Skilled,Mahir,overall,2012,3344.0,3000.0,2575000
+skill_3,Skilled,Mahir,overall,2013,3542.0,3000.0,2546600
+skill_3,Skilled,Mahir,overall,2014,3908.0,3450.0,2749600
+skill_3,Skilled,Mahir,overall,2015,4095.0,3500.0,2765500
+skill_3,Skilled,Mahir,overall,2016,4219.0,3500.0,3092300
+skill_3,Skilled,Mahir,overall,2017,4574.0,3600.0,3192800
+skill_3,Skilled,Mahir,overall,2018,4891.0,3974.0,3227600
+skill_3,Skilled,Mahir,overall,2019,5072.0,4468.0,3387900
+skill_3,Skilled,Mahir,overall,2020,4619.0,4011.0,3410200
+skill_3,Skilled,Mahir,overall,2021,4848.0,4471.0,3482500
+skill_2,Semi-skilled,Separuh mahir,overall,2010,1384.0,1200.0,4074200
+skill_2,Semi-skilled,Separuh mahir,overall,2011,1417.0,1200.0,4468800
+skill_2,Semi-skilled,Separuh mahir,overall,2012,1475.0,1300.0,4491700
+skill_2,Semi-skilled,Separuh mahir,overall,2013,1605.0,1400.0,4655100
+skill_2,Semi-skilled,Separuh mahir,overall,2014,1695.0,1500.0,4909900
+skill_2,Semi-skilled,Separuh mahir,overall,2015,1756.0,1500.0,4811500
+skill_2,Semi-skilled,Separuh mahir,overall,2016,1816.0,1600.0,4621000
+skill_2,Semi-skilled,Separuh mahir,overall,2017,1947.0,1680.0,4775000
+skill_2,Semi-skilled,Separuh mahir,overall,2018,2094.0,1817.0,4792700
+skill_2,Semi-skilled,Separuh mahir,overall,2019,2206.0,1900.0,5036600
+skill_2,Semi-skilled,Separuh mahir,overall,2020,2007.0,1593.0,5215700
+skill_2,Semi-skilled,Separuh mahir,overall,2021,2064.0,1781.0,5442800
+skill_1,Low-skilled,Berkemahiran rendah,overall,2010,987.0,840.0,611600
+skill_1,Low-skilled,Berkemahiran rendah,overall,2011,990.0,821.0,646100
+skill_1,Low-skilled,Berkemahiran rendah,overall,2012,1019.0,836.0,716100
+skill_1,Low-skilled,Berkemahiran rendah,overall,2013,1118.0,900.0,701400
+skill_1,Low-skilled,Berkemahiran rendah,overall,2014,1201.0,1000.0,732900
+skill_1,Low-skilled,Berkemahiran rendah,overall,2015,1288.0,1000.0,771500
+skill_1,Low-skilled,Berkemahiran rendah,overall,2016,1323.0,1050.0,710800
+skill_1,Low-skilled,Berkemahiran rendah,overall,2017,1531.0,1200.0,709300
+skill_1,Low-skilled,Berkemahiran rendah,overall,2018,1648.0,1329.0,740900
+skill_1,Low-skilled,Berkemahiran rendah,overall,2019,1751.0,1422.0,770700
+skill_1,Low-skilled,Berkemahiran rendah,overall,2020,1727.0,1274.0,764900
+skill_1,Low-skilled,Berkemahiran rendah,overall,2021,1749.0,1601.0,786700
+skill_3,Skilled,Mahir,male,2010,3248.0,2631.0,1437600
+skill_3,Skilled,Mahir,male,2011,3352.0,2800.0,1462200
+skill_3,Skilled,Mahir,male,2012,3531.0,3000.0,1470900
+skill_3,Skilled,Mahir,male,2013,3710.0,3000.0,1431600
+skill_3,Skilled,Mahir,male,2014,4083.0,3430.0,1552800
+skill_3,Skilled,Mahir,male,2015,4313.0,3500.0,1538100
+skill_3,Skilled,Mahir,male,2016,4458.0,3553.0,1711200
+skill_3,Skilled,Mahir,male,2017,4828.0,3600.0,1757900
+skill_3,Skilled,Mahir,male,2018,5155.0,3997.0,1780100
+skill_3,Skilled,Mahir,male,2019,5269.0,4497.0,1889400
+skill_3,Skilled,Mahir,male,2020,4758.0,3918.0,1862600
+skill_3,Skilled,Mahir,male,2021,4943.0,4422.0,1983000
+skill_2,Semi-skilled,Separuh mahir,male,2010,1471.0,1250.0,2526800
+skill_2,Semi-skilled,Separuh mahir,male,2011,1500.0,1300.0,2737200
+skill_2,Semi-skilled,Separuh mahir,male,2012,1568.0,1395.0,2758200
+skill_2,Semi-skilled,Separuh mahir,male,2013,1715.0,1500.0,2844600
+skill_2,Semi-skilled,Separuh mahir,male,2014,1809.0,1500.0,2994800
+skill_2,Semi-skilled,Separuh mahir,male,2015,1864.0,1600.0,2948200
+skill_2,Semi-skilled,Separuh mahir,male,2016,1934.0,1650.0,2811600
+skill_2,Semi-skilled,Separuh mahir,male,2017,2049.0,1789.0,2872000
+skill_2,Semi-skilled,Separuh mahir,male,2018,2220.0,1917.0,2875700
+skill_2,Semi-skilled,Separuh mahir,male,2019,2331.0,2004.0,2979900
+skill_2,Semi-skilled,Separuh mahir,male,2020,2100.0,1650.0,3142200
+skill_2,Semi-skilled,Separuh mahir,male,2021,2161.0,1864.0,3171900
+skill_1,Low-skilled,Berkemahiran rendah,male,2010,1054.0,900.0,468200
+skill_1,Low-skilled,Berkemahiran rendah,male,2011,1074.0,935.0,480700
+skill_1,Low-skilled,Berkemahiran rendah,male,2012,1108.0,950.0,515900
+skill_1,Low-skilled,Berkemahiran rendah,male,2013,1218.0,1008.0,508000
+skill_1,Low-skilled,Berkemahiran rendah,male,2014,1314.0,1100.0,523000
+skill_1,Low-skilled,Berkemahiran rendah,male,2015,1394.0,1180.0,563000
+skill_1,Low-skilled,Berkemahiran rendah,male,2016,1433.0,1200.0,511500
+skill_1,Low-skilled,Berkemahiran rendah,male,2017,1615.0,1330.0,521400
+skill_1,Low-skilled,Berkemahiran rendah,male,2018,1758.0,1544.0,554100
+skill_1,Low-skilled,Berkemahiran rendah,male,2019,1861.0,1560.0,566600
+skill_1,Low-skilled,Berkemahiran rendah,male,2020,1801.0,1340.0,546200
+skill_1,Low-skilled,Berkemahiran rendah,male,2021,1779.0,1587.0,579000
+skill_3,Skilled,Mahir,female,2010,2853.0,2548.0,1025900
+skill_3,Skilled,Mahir,female,2011,2914.0,2700.0,1056900
+skill_3,Skilled,Mahir,female,2012,3094.0,2905.0,1104100
+skill_3,Skilled,Mahir,female,2013,3326.0,3000.0,1115000
+skill_3,Skilled,Mahir,female,2014,3682.0,3450.0,1196700
+skill_3,Skilled,Mahir,female,2015,3821.0,3500.0,1227400
+skill_3,Skilled,Mahir,female,2016,3923.0,3500.0,1381100
+skill_3,Skilled,Mahir,female,2017,4262.0,3551.0,1434900
+skill_3,Skilled,Mahir,female,2018,4566.0,3947.0,1447500
+skill_3,Skilled,Mahir,female,2019,4824.0,4428.0,1498500
+skill_3,Skilled,Mahir,female,2020,4450.0,4037.0,1547600
+skill_3,Skilled,Mahir,female,2021,4722.0,4520.0,1499500
+skill_2,Semi-skilled,Separuh mahir,female,2010,1242.0,1050.0,1547400
+skill_2,Semi-skilled,Separuh mahir,female,2011,1285.0,1100.0,1731600
+skill_2,Semi-skilled,Separuh mahir,female,2012,1328.0,1200.0,1733500
+skill_2,Semi-skilled,Separuh mahir,female,2013,1430.0,1200.0,1810500
+skill_2,Semi-skilled,Separuh mahir,female,2014,1517.0,1300.0,1915100
+skill_2,Semi-skilled,Separuh mahir,female,2015,1584.0,1350.0,1863300
+skill_2,Semi-skilled,Separuh mahir,female,2016,1634.0,1460.0,1809400
+skill_2,Semi-skilled,Separuh mahir,female,2017,1793.0,1600.0,1903000
+skill_2,Semi-skilled,Separuh mahir,female,2018,1904.0,1679.0,1917100
+skill_2,Semi-skilled,Separuh mahir,female,2019,2023.0,1725.0,2056699
+skill_2,Semi-skilled,Separuh mahir,female,2020,1865.0,1514.0,2073500
+skill_2,Semi-skilled,Separuh mahir,female,2021,1929.0,1683.0,2270800
+skill_1,Low-skilled,Berkemahiran rendah,female,2010,770.0,600.0,143300
+skill_1,Low-skilled,Berkemahiran rendah,female,2011,746.0,600.0,165400
+skill_1,Low-skilled,Berkemahiran rendah,female,2012,793.0,600.0,200300
+skill_1,Low-skilled,Berkemahiran rendah,female,2013,854.0,700.0,193400
+skill_1,Low-skilled,Berkemahiran rendah,female,2014,920.0,800.0,209900
+skill_1,Low-skilled,Berkemahiran rendah,female,2015,1001.0,900.0,208500
+skill_1,Low-skilled,Berkemahiran rendah,female,2016,1041.0,900.0,199200
+skill_1,Low-skilled,Berkemahiran rendah,female,2017,1298.0,1000.0,188000
+skill_1,Low-skilled,Berkemahiran rendah,female,2018,1321.0,1123.0,186800
+skill_1,Low-skilled,Berkemahiran rendah,female,2019,1444.0,1208.0,204100
+skill_1,Low-skilled,Berkemahiran rendah,female,2020,1541.0,1211.0,218600
+skill_1,Low-skilled,Berkemahiran rendah,female,2021,1665.0,1611.0,207700
