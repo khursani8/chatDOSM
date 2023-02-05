@@ -3,3 +3,4 @@ pandas
 tiktoken
 requests
 autofaiss
+plotly
