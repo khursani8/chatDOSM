@@ -5,9 +5,6 @@ import pandas as pd
 import numpy as np
 from pdb import set_trace
 import os
-os.system("wget https://zenodo.org/record/7609690/files/mappings.csv?download=1 -O mappings.csv")
-os.system("wget https://zenodo.org/record/7609690/files/knn.index?download=1 -O knn.index")
-os.system("wget https://zenodo.org/record/7609690/files/index_infos.json?download=1 -O index_infos.json")
 def create_context(
     question, df
 ):
@@ -43,8 +40,10 @@ def chat(message, history, openai_api_key):
     context = "\n\n###\n\n".join(returns)
     try:
         # Create a completions using the question and context
+        prompt = f"You as a Data Scientist expert looking at tons of csv file, answer the question based on the context below and if the question can't be answered based on the context, say \"I don't know\"\n\nContext: \n\n##\n\n{context}\n\n---\n\nQuestion: {message}\nAnswer:"
+        print(prompt)
         response = openai.Completion.create(
-            prompt=f"Answer the question based on the context below and if the question can't be answered based on the context, say \"I don't know\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
+            prompt=prompt,
             temperature=0.7,
             max_tokens=150,
             top_p=1,
@@ -90,6 +89,11 @@ with gr.Blocks() as demo:
   state = gr.State()
   chatbot = gr.Chatbot()
   question.submit(chat, [question, state, openai_api_key], [chatbot, state, context])
+  gr.HTML("""
+  Example question can ask:
+  1. In 2023-01-20 for state W.P. Putrajaya, how many new cases?
+  2. What is the price for chicken on 1 jan 2022
+  """)
   gr.HTML("""
         TLDR; Working on this because of this tweet https://twitter.com/huseinzolkepli/status/1620662587410243584?s=20 <br/> 
         Only working on the embeddings part, for the visualization I did not working on it because afraid of someone do remote code exec which can trigger any code <br/>
