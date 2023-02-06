@@ -98,12 +98,14 @@ with gr.Blocks() as demo:
         <br/><br/>
         Time Taken building this project:
         4-5 hours study and work on it:<br/>
-        2 days building embeddings :v (pikachu shock face), $4 for all embeddings of DOSM<br/>
+        44 hours building embeddings :v (pikachu shock face), $7 for all embeddings of DOSM<br/>
         
         <br/><br/>
         Learn from: https://platform.openai.com/docs/tutorials/web-qa-embeddings <br/>
         Other embeddings db if you want to try: https://platform.openai.com/docs/guides/embeddings/how-can-i-retrieve-k-nearest-embedding-vectors-quickly <br/>
         Steal UI code from https://huggingface.co/spaces/ysharma/LangchainBot-space-creator <br/>
+    
+        Other Project: https://huggingface.co/spaces/khursani8/cubaan-vc(Voice Conversion)
     </div>""")
 
 demo.launch()
