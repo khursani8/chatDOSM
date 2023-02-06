@@ -5,8 +5,9 @@ import pandas as pd
 import numpy as np
 from pdb import set_trace
 import os
-os.system("wget https://zenodo.org/record/7606973/files/mappings.csv?download=1 -O mappings.csv")
-os.system("wget https://zenodo.org/record/7607041/files/knn.index?download=1 -O knn.index")
+os.system("wget https://zenodo.org/record/7609690/files/mappings.csv?download=1 -O mappings.csv")
+os.system("wget https://zenodo.org/record/7609690/files/knn.index?download=1 -O knn.index")
+os.system("wget https://zenodo.org/record/7609690/files/index_infos.json?download=1 -O index_infos.json")
 def create_context(
     question, df
 ):
@@ -78,7 +79,7 @@ with gr.Blocks() as demo:
         <p style="margin-bottom: 10px; font-size: 94%">
         Hi, I'm a Q and A DOSM expert bot, start by typing in your OpenAI API key, questions/issues you are facing in your DOSM implementations and then press enter.<br>
         </p>
-        <p> Cutoff period: 4 FEB 2023 </p>
+        <p> Cutoff period: 4 FEB 2023 https://open.dosm.gov.my/data-catalogue</p>
         Get OpenAI API key <a href=https://platform.openai.com/account/api-keys>here</a>
     </div>""")  
   with gr.Row():
